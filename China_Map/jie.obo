@@ -1,0 +1,11276 @@
+[Term]
+id: 0000001
+nameEN: Mazhamai
+nameCN: 蚂蚱麦
+defEN: Mazhamai originated in Guanzhong region of Shaanxi province and the south of shanxi province,  belongs to quasi-dense spike variety, which is semi-wintery, with many spikelets, dense spikes, many flowers, large grains, strong stems and certain rust resistance. 
+defCN: 蚂蚱麦属于拟密穗变种, 半冬性, 小穗较多,较密, 多花, 粒较大, 茎秆较壮, 有一定耐锈力, 是陕西关中和山西省南部的主要农家品种.
+year: 1942
+region: Yellow and HuaiRiver valley winter wheat region     
+province: Henan
+
+[Term]
+id: 0000002
+nameEN: Bima 4
+nameCN: 碧蚂4号
+defEN: Bima 4 is semi-winter and prefers fertilizer and water.
+defCN: 碧蚂4号属半冬性, 较喜肥水.
+is_a: 0000001 
+is_a: 0000019
+year: 1947
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Henan
+
+[Term]
+id: 0000003
+nameEN: Xinong 6028
+nameCN: 西农6028
+defEN: Xinong 6028 was resistant to stripe rust and midge and had good yield.
+defCN: 西农6028丰产性好, 抗条锈病, 芒基部卷曲, 可抗吸浆虫.
+is_a: 0000013 
+is_a: 0000014 
+year: 1956-1958
+region: New Ukraine
+province: Xinjiang
+
+[Term]
+id: 0000004
+nameEN: Youzimai
+nameCN: 蚰子麦
+defEN: Youzimai mature early, more flowers and more fruit, shorter plants, strong adaptability.
+defCN: 蚰子麦成熟早, 多花多实, 植株较矮, 适应性强.
+year: 1949
+region: Yellow and HuaiRiver valley winter wheat region   
+province: Henan
+
+[Term]
+id: 0000005
+nameEN: Beijing 8
+nameCN: 北京8号
+defEN: Beijing 8 is an early-maturing variety with resistance to stripe rust and high yield.
+defCN: 北京8号属于早熟品种，抗条锈病, 丰产性好.
+is_a: 0000002 
+is_a: 0000011
+year: 1962
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000006
+nameEN: Nanda2 419
+nameCN: 南大2419
+defEN: Nanda 2419 is early maturing, resistant to lodging, and resistant to rust and midge, not cold.
+defCN: 南大2419早熟, 抗倒伏, 兼抗锈病和吸浆虫, 不耐寒.
+year: 1942
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000007
+nameEN: Funo ! Afu
+nameCN: 阿夫 
+defEN: Italian variety Afu, introduced from Albania in 1956, has many ears, high yield and rust resistance.
+defCN: 意大利品种阿夫是我国１９５６年从阿尔巴尼亚引入, 穗多, 丰产, 抗锈病.
+is_a: 0000024
+is_a: 0000028
+year: 1956
+region: Albania
+province: Italy
+
+[Term]
+id: 0000008
+nameEN: Abbondanza ! Abo
+nameCN: 阿勃
+defEN: The Italian variety Afu was introduced from Albania in 1956. It has large ears, many grains and good yield. It is immune to stripe rust, resistant to leaf rust and head smut, resistant to lodging and has wide adaptability.
+defCN: 意大利品种阿勃是我国１９５６年从阿尔巴尼亚引入, 穗大粒多, 丰产性好, 对条锈病免疫, 抗叶锈病和黑穗病, 抗倒伏, 适应性广.
+year: 1957
+region: Albania
+province: Italy
+
+[Term]
+id: 0000009
+nameEN: Orofen ! Orou
+nameCN: 欧柔
+defEN: Orofen originated from Chile and was introduced into China from Romania in 1959. It is a spring variety with large ears and strong stalks, which is resistant to lodging, stripe rust and stalk embroidery. It is rarely planted in Huanghuai winter wheat area and is mainly used as parent for breeding.
+defCN: 欧柔原产智利, 1959年从罗马尼亚引入我国, 属于春性品种, 穗大杆壮, 抗倒伏, 高抗条锈病, 抗秆绣病等, 黄淮冬麦区少有种植, 主要作为亲本进行育种.
+year: 1959
+region: Romania
+province: Chile
+
+[Term]
+id: 0000010
+nameEN: Luofulin 10 ! Lovrin 10
+nameCN: 洛夫林10号
+defEN: Lovering 10 originated from Ronia and was resistant to three rust diseases and powdery mildew. It had strong resistance to high temperature and drought stress and good yield performance.
+defCN: 洛夫林10号原产罗尼亚, 能抗三种锈病和白粉病, 对高温干旱逆境有较强抵抗力, 丰产性好.
+is_a: 0000008
+is_a: 0000033
+is_a: 0000032
+year: 1971
+region: Romania
+province: Hebei
+
+[Term]
+id: 0000011
+nameEN: Early Premium ! Zaoyangmai ! Nongda 1
+nameCN: 早洋麦 ! 农大1号
+defEN: Early Premium was introduced from Kansas, USA in 1946. It is resistant to rust, high yield and lodging.
+defCN: 早洋麦在1946年从美国堪萨斯州引进, 抗锈丰产, 抗倒伏.
+year: 1946
+region: Northern winter wheat region
+province: USA
+
+[Term]
+id: 0000012
+nameEN: Yanda 1817
+nameCN: 燕大1817
+defEN: Yanda 1817 has long ears, slightly dense spikelets, and more grains per spike. It is cold-resistant and drought-resistant, and has strong adaptability. It is susceptible to stripe rust and lodging
+defCN: 燕大1817穗子较长, 小穗着生稍密, 穗粒数较多, 耐寒, 耐旱, 适应性强, 易感染条锈病, 易倒伏.
+is_a: 0000040
+year: 1948
+region: Northern winter wheat region 
+province: Shanxi
+
+[Term]
+id: 0000013
+nameEN: Xibei 60
+nameCN: 西北60
+defEN: Xibei 60 was bred from old wheat, a peasant variety in Guanzhong area, with good yield and easy to fall grain, and low resistance to stripe rust.
+defCN: 西北60由关中地区农家品种老麦中选育而来, 丰产性好, 易落粒, 对条锈病抗性低.
+is_a: 0000023
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Shanxi
+
+[Term]
+id: 0000014
+nameEN: Villa Glori ! Zhongnong 28
+nameCN: 中农28
+defEN: Zhongnong 28 was introduced into China from Italy in 1930. Its plant is short, resistant to lodging, with mostly flowered ears, strong seed setting and resistance to stripe rust and midge.
+defCN: 中农28在1930年从意大利引入我国, 植株较矮, 抗倒伏, 穗大多花, 结实性强, 抗条锈病和吸浆虫. 
+is_a: 0000020
+is_a: 0000021
+is_a: 0000022
+year: 1930
+region: Italy
+province: Shanxi
+
+[Term]
+id: 0000015
+nameEN: Jiangdongmen 
+nameCN: 江东门
+defEN: Jiangdongmen is an early-maturing variety with slow response to light and good combining ability.
+defCN: 江东门属于早熟品种, 对光照反应迟钝, 配合力好. 
+year: 1926
+region: Southwest Winter Wheat Region
+province: Sichuan Chengdu
+
+[Term]
+id: 0000016
+nameEN: Chengduguangtou 
+nameCN: 成都光头
+defEN: Chengduguangtou premature, many grain, strong adaptability.
+defCN: 成都光头早熟, 多粒, 适应性强.
+year: 1980
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000017
+nameEN: Wuyimai 
+nameCN: 五一麦
+defEN: Wuyimai early-maturing, with many grains, big ears and big grains. It is resistant to smut and has strong adaptability.
+defCN: 五一麦早熟, 多粒, 穗大粒大, 抗散黑穗病, 适应性强.
+is_a: 0000019
+is_a: 0000016
+is_a: 0000029
+is_a: 0000030
+year: 1980
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000018
+nameEN: Mexipak 66 ! Moba 66
+nameCN: 墨巴66
+defEN: Mexipak 66 has many ears and big grain, short stalk, strong resistance to lodging and stripe rust, and is suitable for the ecological environment in plateau area.
+defCN: 墨巴66穗多粒大, 秆矮抗倒伏, 抗条锈病强, 适应高原地区生态环境.
+is_a: 0000031
+year: 1972
+region: Xinjiangwinter-spring wheat region
+province: Xinjiang Uygur Autonomous Region
+
+[Term]
+id: 0000019
+nameEN: Quality ! Biyumai
+nameCN: 碧玉麦
+defEN: Quality  introduced from the United States, has thick stalks, lodging resistance, large grains, stripe rust resistance and no cold resistance.
+defCN: 碧玉麦引自美国, 秆粗壮, 抗倒伏, 籽粒大, 抗条锈病, 不耐寒.
+yaer: 1942
+region: Northwest spring wheat region
+province: Ningxia
+
+[Term]
+id: 0000020
+nameEN: Akagomughi ! Chixiaomai 
+nameCN: 赤小麦
+defEN: The coleoptiles of red wheat in seedling stage are longer and have higher growth vitality, which is suitable for growth in high temperature and dry environment
+defCN: 赤小麦苗期胚芽鞘较长且生长活力较高，适用于高温干燥环境生长
+year: 1930
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000021
+nameEN: Rieti ! Ruiti 
+nameCN: 瑞梯
+defEN: Rieti comes from Italy.
+defCN: 瑞梯来自意大利.
+year: 1972
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000022
+nameEN: Wilhelmina ! Weierhemingna 
+nameCN: 威尔赫明那
+defEN: Wilhemina is from Holland.
+defCN: 威尔赫明那来自荷兰
+year: 1972
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000023
+nameEN: Guanzhonglaomai
+nameCN: 关中老麦
+defEN: Guanzhonglaomai is a farm variety in Guanzhong area of Shaanxi province.
+defCN: 关中老麦为陕西省关中地区农家品种.
+year: 2013
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi 
+
+[Term]
+id: 0000024
+nameEN: Damiano ! Damiyanuo
+nameCN: 达米亚诺
+defEN: Damiano comes from Italy.
+defCN: 达米亚诺为意大利品种.
+is_a: 0000020
+is_a: 0000021
+is_a: 0000022
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000025
+nameEN: Rieti Familia 11 ! Ruitijiaxi 11
+nameCN: 瑞梯家系11
+defEN: Rieti Familia 11 comes from Italy.
+defCN: 瑞梯家系11为意大利品种.
+year: 1990
+region: Italy
+province: NA
+
+[Term]
+id: 0000026
+nameEN: Hatif Inversable ! Hatifu yinweisaibu
+nameCN: 哈提夫因维塞布
+defEN: Hatif Inversable comes from France.
+defCN: 哈提夫因维塞布来自法国.
+year: NA
+region: France
+province: NA
+
+[Term]
+id: 0000027
+nameEN: Inallettabile 96 ! Yinnaletebi 96
+nameCN: 因那勒特比96
+defEN: Inallettabile 96 comes from Italy.
+defCN: 因那勒特比96来自意大利.
+is_a: 0000026
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000028
+nameEN: Duecentodieci ! Dusentuodixi
+nameCN: 杜森托迪西
+defEN: Duecentodieci comes from Italy.
+defCN: 杜森托迪西来自意大利.
+is_a: 0000025
+is_a: 0000027
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000029
+nameEN: Ailiduo
+nameCN: 矮立多
+defEN: Ailiduo, weak winter, middle and early maturity, weak cold resistance, drought resistance, humidity resistance, resistance to stripe rust and smut, and susceptibility to leaf rust, stem rust and scab.
+defCN: 矮立多弱冬性, 中早熟, 耐寒性不强, 不耐旱, 耐湿, 抗条锈病和散黑穗病, 易感染叶锈病, 秆锈病和赤霉病.
+year: 1934
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000030
+nameEN: Fawn ! Chuanfumai
+nameCN: 川福麦
+defEN: Fawn is from Australia.
+defCN: 川福麦来自澳洲.
+year: 1939
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000031
+nameEN: Mexipak ! Moba 
+nameCN: 墨巴
+defEN: Mexipak comes from mexico.
+defCN: 墨巴来自墨西哥.
+year: NA
+region: Mexico
+province: NA
+
+
+[Term]
+id: 0000032
+nameEN: Bezostaja 1 ! Wumang 1 
+nameCN: 无芒1号
+defEN: Bezostaja 1 comes from Soviet Union.
+defCN: 无芒1号来自苏联.
+year: NA
+region: Soviet Union
+province: NA
+
+[Term]
+id: 0000033
+nameEN: Triumph ! Shenglimai ! Nongda 2
+nameCN: 胜利麦 ! 农大2号
+defEN: Triumph was introduced to China from the United States in 1946. It was resistant to rust, had strong stalk resistance to fertilizer, headed earlier and had larger grains.
+defCN: 胜利麦在1946年从美国引进到我国, 抗锈病, 秆强耐肥, 抽穗稍早, 籽粒较大.
+is_a: 0000036
+is_a: 0000035
+is_a: 0000034
+year: 1946
+region: Northern spring wheat region
+province: Neimenggu
+
+[Term]
+id: 0000034
+nameEN: Florence ! Fuluolunsi 
+nameCN: 弗罗伦斯
+defEN: Florence comes from Australia.
+defCN: 弗罗伦斯来自澳洲.
+year: NA
+region: Australia
+province: NA
+
+[Term]
+id: 0000035
+nameEN: Kanred ! Kanhong
+nameCN: 坎红
+defEN: Kanred  comes from United States.
+defCN: 坎红来自美国.
+is_a: 0000038
+year: 1991
+region: USA
+province: Heilongjiang
+
+[Term]
+id: 0000036
+nameEN: Blackhull ! Heikemai
+nameCN: 黑壳麦
+defEN: Blackhull comes from United States.
+defCN: 黑壳麦来自美国.
+is_a: 0000037
+year: NA
+region: USA
+province: NA
+
+[Term]
+id: 0000037
+nameEN: Turkey ! Tuerqi
+nameCN: 土耳其
+defEN: Turkey comes from United States.
+defCN: 土耳其来自美国.
+is_a: 0000038
+year: NA
+region: USA
+province: NA
+
+[Term]
+id: 0000038
+nameEN: Kpblmka ! Kelimu
+nameCN: 克里木
+defEN: Kpblmka comes from Soviet Union.
+defCN: 克里木来自苏联.
+year: NA
+region: Soviet Union
+province: NA
+
+[Term]
+id: 0000039
+nameEN: Early Blackhull ! Zaoheike
+nameCN: 早黑壳
+defEN: Early Blackhull comes from United States.
+defCN: 早黑壳来自美国.
+year: NA
+region: USA
+province: NA
+
+[Term]
+id: 0000040
+nameEN: Shanxipingyaoxiaobaimai
+nameCN: 山西平遥小白麦
+defEN: Shanxipingyaoxiaobaimai is relatively long, with slightly dense spikelets and more grains per ear. They are cold-resistant, drought-resistant, and have strong adaptability. They are infected with stripe rust and are prone to lodging.
+defCN: 山西平遥小白麦穗子较长, 小穗着生稍密, 穗粒数较多, 抗寒, 抗旱, 适应性强, 感染条锈病, 易倒伏.
+year: 1942
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000041
+nameEN: Xibei 302 ! Jingyang 302
+nameCN: 西北302 ! 泾阳302
+defEN: Xibei 302  is derived from the Mazhamai.
+defCN: 西北302从蚂蚱麦中系选出.
+is_a: 0000001
+year: 1944
+region: Northern spring wheat region
+province: Gansu
+
+[Term]
+id: 0000042
+nameEN: Tainong 153 
+nameCN: 泰农153 
+defEN: Tainong 153  is derived from the Quality.
+defCN: 泰农153从碧玉麦中系选出.
+is_a: 0000019
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000043
+nameEN: Kaifeng 20  
+nameCN: 开封20  
+is_a: 0000019
+is_a: 0000001
+year: 2009
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000044
+nameEN: Bima 2  
+nameCN: 碧蚂2号 
+is_a: 0000019
+is_a: 0000001
+year: 1942-1949
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000045
+nameEN: Bima 3 
+nameCN: 碧蚂3号  
+is_a: 0000019
+is_a: 0000001
+year: 1942-1949
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000046
+nameEN: Bima 6 
+nameCN: 碧蚂6号  
+is_a: 0000019
+is_a: 0000001
+year: 1942-1949
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000047
+nameEN: Bima 5 
+nameCN: 碧蚂5号 
+is_a: 0000019
+is_a: 0000001
+year: 1942-1949
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+[Term]
+
+id: 0000048
+nameEN: Bima 1  
+nameCN: 碧蚂1号 
+defEN: Bima 1 tillering power, mostly flowers, strong seedlings, rust resistance, good high yield, early maturity.
+defCN: 碧蚂1号分蘖力中等, 穗大多花, 苗壮, 抗锈病, 丰产性好, 成熟早.
+is_a: 0000019
+is_a: 0000001
+year: 1942-1949
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000049
+nameEN: Bima 4  
+nameCN: 碧蚂4号  
+defEN: Bima 4 cold resistant, good yield.
+defCN: 碧蚂4号耐寒, 丰产性好.
+is_a: 0000019
+is_a: 0000001
+year: 1947
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000050
+nameEN: Xibeifengshoumai
+nameCN: 西北丰收麦 
+defEN: Unknown
+defCN: 未知
+is_a: 0000019
+is_a: 0000041
+year: NA
+region: Northwest spring wheat region
+province: NA
+
+[Term]
+id: 0000051
+nameEN: xibei 54
+nameCN: 西北54
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northwest spring wheat region
+province: NA
+
+[Term]
+id: 0000052
+nameEN: Hanxuan 2 
+nameCN: 邯选2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000051
+is_a: 0000050
+year: NA
+region: NA
+province: Hebei
+
+[Term]
+id: 0000053
+nameEN: Xibeizhan 2   
+nameCN: 西北站2号
+defEN: Unknown
+defCN: 未知  
+is_a: 0000041
+is_a: 0000014
+year: NA
+region: Northwest spring wheat region
+province: NA
+
+[Term]
+id: 0000054
+nameEN: nongda 90
+nameCN: 农大90 
+defEN: Morphological resistance and maturity are exactly the same as those of Nongda 183.
+defCN: 形态抗性和熟期和农大183完全一样.
+is_a: 0000012
+is_a: 0000035
+year: 1950
+region: Northern winter wheat region
+province: NA
+
+[Term]
+id: 0000055
+nameEN: Shanxidifangpinzhong
+nameCN: 山西地方品种 
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000056
+nameEN: Mingxian 169
+nameCN: 铭贤169 
+defEN: Selected from parent lines.
+defCN: 亲本系选得到.
+is_a: 0000055
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000057
+nameEN: Jinmai 1 ! Taiyuan 116
+nameCN: 晋麦1号 ! 太原116
+defEN: Unknown
+defCN: 未知  
+is_a: 0000056
+is_a: 0000012
+is_a: 0000033
+year: 1980
+region: NA
+province: NA
+
+[Term]
+id: 0000058
+nameEN: Taiyuan 566
+nameCN: 太原566
+defEN: Unknown
+defCN: 未知  
+is_a: 0000033
+is_a: 0000012
+year: 1980
+region: NA
+province: NA
+
+[Term]
+id: 0000059
+nameEN: Nongda 16
+nameCN: 农大16
+defEN: Unknown
+defCN: 未知  
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000060
+nameEN: Nongda 17
+nameCN: 农大17
+defEN: Unknown
+defCN: 未知  
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000061
+nameEN: Taigu 49
+nameCN: 太谷49
+defEN: Unknown
+defCN: 未知  
+is_a: 0000033
+is_a: 0000012
+year: 1960
+region: NA
+province: Shanxi
+
+[Term]
+id: 0000062
+nameEN: Shijiazhuang 407
+nameCN: 石家庄407
+defEN: Unknown
+defCN: 未知  
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Northern winter wheat region
+province: Hebei
+
+[Term]
+id: 0000063
+nameEN: Nongda 36 
+nameCN: 农大36
+defEN: Similar to Nongda 183 in character, and more resistant to cold and drought.
+defCN: 与农大183性状近似, 且更抗寒耐旱.  
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000064
+nameEN: Huabei 187
+nameCN: 华北187
+defEN: Early maturity, strong and tough stem, lodging resistance, resistance to stripe rust, large spike and large grain, good yield, good red grain quality.
+defCN: 较早熟, 茎秆强韧, 抗倒伏, 抗条锈病, 穗大粒大, 丰产性好, 红粒质佳.  
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Northern spring wheat region
+province: NA
+
+[Term]
+id: 0000065
+nameEN: Nongda 183
+nameCN: 农大183
+defEN: Resistance to stripe rust, cold resistance, drought resistance, tillering, grain number per spike, and grain weight are the same as those of the superior parents, and the heading date is inherited beyond the parents.
+defCN: 抗条锈病, 抗寒, 抗旱, 分蘖, 穗粒数, 千粒重均与优亲相同, 抽穗期超亲遗传.  
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000066
+nameEN: Huabei 672
+nameCN: 华北672
+defEN: Unknown
+defCN: 未知  
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Northern spring wheat region
+province: NA
+
+[Term]
+id: 0000067
+nameEN: Nongda 311
+nameCN: 农大311
+defEN: The main characters are similar to those of Nongda 183.
+defCN: 主要性状与农大183相近. 
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000068
+nameEN: Nongda 498 
+nameCN: 农大498
+defEN: Unknown
+defCN: 未知  
+is_a: 0000033
+is_a: 0000012
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000069
+nameEN: Albidum
+nameCN: 20H155
+defEN: Unknown
+defCN: 未知  
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000070
+nameEN: Liying 3
+nameCN: 骊英3号
+defEN: Unknown
+defCN: 未知 
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000071
+nameEN: P55 mei
+nameCN: P55美
+defEN: Unknown
+defCN: 未知  
+year: NA
+region: NA
+province: :USA
+
+[Term]
+id: 0000072
+nameEN: Huadong 5042
+nameCN: 华东5042
+defEN: Antigens from Washington State Agricultural College.
+defCN: 抗原来自美国华盛顿州农学院.  
+is_a: 0000070
+is_a: 0000071
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: USA
+
+[Term]
+id: 0000073
+nameEN: Huadong 6
+nameCN: 华东6号
+defEN: It basically inherits the characteristics of Jiangdongmen, such as weak winter, slow response to light, early maturity, etc.
+defCN: 基本继承江东门弱冬性, 对光反应迟钝, 早熟等特点.
+is_a: 0000072
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Jiangsu
+
+[Term]
+id: 0000074
+nameEN: Huadong 7
+nameCN: 华东7号
+defEN: Unknown
+defCN: 未知 
+is_a: 0000072
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Jiangsu
+
+[Term]
+id: 0000075
+nameEN: Zhongsahn 6
+nameCN: 钟山6号
+defEN: Unknown
+defCN: 未知 
+is_a: 0000009
+is_a: 0000073
+year: NA
+region: Southwest Winter Wheat Region
+province: NA
+
+[Term]
+id: 0000076
+nameEN: 20H155 
+nameCN: 20H155美
+defEN: Unknown
+defCN: 未知
+year: NA
+
+[Term]
+id: 0000077
+nameEN: Tezao 487
+nameCN: 特早487
+defEN: Unknown
+defCN: 未知 
+is_a: 0000015
+is_a: 0000076
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000078
+nameEN: Liying 4 ! Tezao 483
+nameCN: 骊英4号 ! 特早483
+defEN: Unknown
+defCN: 未知 
+is_a: 0000015
+is_a: 0000076
+year: 1937
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000079
+nameEN: Huadong 5201
+nameCN: 华东5201
+defEN: Unknown
+defCN: 未知 
+is_a: 0000078
+is_a: 0000014
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Jiangsu
+
+[Term]
+id: 0000080
+nameEN: Huadong 5204
+nameCN: 华东5204
+defEN: Unknown
+defCN: 未知 
+is_a: 0000078
+is_a: 0000014
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Jiangsu
+
+[Term]
+id: 0000081
+nameEN: Kangxiu 5204
+nameCN: 抗锈5204
+defEN: Unknown
+defCN: 未知 
+is_a: 0000080
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Fujian
+
+[Term]
+id: 0000082
+nameEN: Hatif
+nameCN: 哈提夫
+defEN: From France
+defCN: 来自法国 
+year: NA
+region: France
+province: NA
+
+[Term]
+id: 0000083
+nameEN: Rieti
+nameCN: 瑞梯
+defEN: From Italy
+defCN: 来自法意大利
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000084
+nameEN: Tevere
+nameCN: 吉利
+defEN: From Italy
+defCN: 来自法意大利
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000085
+nameEN: Aiganzao
+nameCN: 矮杆早
+defEN: Early maturity, high yield, severe scab.
+defCN: 早熟, 丰产, 赤霉病重. 
+is_a: 0000084
+is_a: 0000073
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000086
+nameEN: Foshoumai
+nameCN: 佛手麦
+defEN: Unknown
+defCN: 未知 
+year: 1953
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Anhui
+
+[Term]
+id: 0000087
+nameEN: Nong 48187
+nameCN: 农48187
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000004
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000088
+nameEN: Jinan 6
+nameCN: 济南6号
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000087
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000089
+nameEN: Jinanai 6
+nameCN: 济南矮6号
+defEN: Unknown
+defCN: 未知
+is_a: 0000088
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000090
+nameEN: Meimai 10
+nameCN: 美麦10号
+defEN: Early maturing American rust resistant varieties.
+defCN: 较早熟美国抗锈品种.
+year: NA
+region: NA
+province: USA
+
+[Term]
+id: 0000091
+nameEN: Xinshi 14
+nameCN: 辛石14号
+defEN: Particularly precocious.
+defCN: 特别早熟.
+is_a: 0000004
+is_a: 0000090
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000092
+nameEN: Xinshi 3
+nameCN: 辛石3号
+defEN: Particularly precocious.
+defCN: 特别早熟.
+is_a: 0000004
+is_a: 0000090
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000093
+nameEN: Jinan 9
+nameCN: 济南9号
+defEN: Unknown
+defCN: 未知
+is_a: 0000092
+is_a: 0000009
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000094
+nameEN: Baodasanbaipao
+nameCN: 包打三百炮
+defEN: From abroad, Winter, hard stem, short basal internode, large grain and tight mouth, resistant to stem rust, late maturing.
+defCN: 来自国外, 冬性, 秆硬, 基部节间短, 大粒口紧, 抗秆锈, 晚熟.
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000095
+nameEN: Youbaomai
+nameCN: 蚰包麦
+defEN: Semi dwarf, multi spike, high yield.
+defCN: 半矮杆, 多穗, 高产.
+is_a: 0000004
+is_a: 0000094
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+
+[Term]
+id: 0000096
+nameEN: Youxuan 58
+nameCN: 蚰选58
+defEN: Unknown
+defCN: 未知
+is_a: 0000095
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000097
+nameEN: Youxuan 57
+nameCN: 蚰选57
+defEN: Unknown
+defCN: 未知
+is_a: 0000095
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000098
+nameEN: St2422/464
+nameCN: St2422/464
+defEN: From Italy.
+defCN: 来自意大利.
+is_a: 0000803
+is_a: 0000885
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000099
+nameEN: Yannong 15
+nameCN: 烟农15
+defEN: High yield and quality, fertilizer tolerance and lodging resistance, wide adaptability
+defCN: 高产优质、耐肥抗倒、适应性广
+is_a: 0000097
+is_a: 0000098
+year: 1992
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000100
+nameEN: Sulianzaoshu 1
+nameCN: 苏联早熟1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000101
+nameEN: 54405
+nameCN: 54405
+defEN: Unknown
+defCN: 未知
+is_a: 0000002
+is_a: 0000100
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000102
+nameEN: Zazhong
+nameCN: 杂种
+defEN: Unknown
+defCN: 未知
+is_a: 0000101
+is_a: 0000009
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000103
+nameEN: Jinan 14
+nameCN: 济南14
+defEN: Unknown
+defCN: 未知
+is_a: 0000102
+is_a: 0000096
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000104
+nameEN: Zazhong
+nameCN: 杂种
+defEN: Unknown
+defCN: 未知
+is_a: 0000095
+is_a: 0000009
+region: NA
+province: NA
+
+[Term]
+id: 0000105
+nameEN: Baiyoubao
+nameCN: 白蚰包
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000106
+nameEN: L277/4
+nameCN: L277/4
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000107
+nameEN: Laiyang 4671
+nameCN: 莱阳4671
+defEN: Unknown
+defCN: 未知
+is_a: 0000104
+is_a: 0000105
+is_a: 0000106
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+
+[Term]
+id: 0000108
+nameEN: Fu 66
+nameCN: 辐66
+defEN: Unknown
+defCN: 未知
+is_a: 0000095
+is_a: 0000009
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000109
+nameEN: Shannongfu 63
+nameCN: 山农辐66
+defEN: Unknown
+defCN: 未知
+is_a: 0000095
+is_a: 0000009
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000110
+nameEN: Hanmai 1
+nameCN: 汉麦1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000006
+is_a: 0000017
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000111
+nameEN: Mala
+nameCN: 玛拉
+defEN: From Italy.
+defCN: 来自意大利.
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000112
+nameEN: Chuanmai 8
+nameCN: 川麦8号
+defEN: Unknown
+defCN: 未知
+is_a: 0000017
+is_a: 0000111
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000113
+nameEN: Ganmai 8
+nameCN: 甘麦8号
+defEN: Strong adaptability, large spike, large grain and high yield.
+defCN: 适应性强, 穗大粒大产量高.
+is_a: 0000017
+is_a: 0000008
+year: 1965
+region: northwestern spring wheat region
+province: Gansu
+
+[Term]
+id: 0000114
+nameEN: Ganmai 11
+nameCN: 甘麦11号
+defEN: Strong adaptability, large spike, large grain and high yield.
+defCN: 适应性强, 穗大粒大产量高.
+is_a: 0000017
+is_a: 0000008
+year: NA
+region: northwestern spring wheat region
+province: Gansu
+
+[Term]
+id: 0000115
+nameEN: Ganmai 23
+nameCN: 甘麦23号
+defEN: Unknown
+defCN: 未知
+is_a: 0000017
+is_a: 0000008
+year: NA
+region: northwestern spring wheat region
+province: Gansu
+
+[Term]
+id: 0000116
+nameEN: Shannong 1
+nameCN: 陕农1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000048
+is_a: 0000003
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000117
+nameEN: Shannong 2
+nameCN: 陕农2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000048
+is_a: 0000003
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000118
+nameEN: Shannong 9
+nameCN: 陕农9号
+defEN: Unknown
+defCN: 未知
+is_a: 0000047
+is_a: 0000003
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000119
+nameEN: Xibei 612
+nameCN: 西北612
+defEN: Unknown
+defCN: 未知
+is_a: 0000047
+is_a: 0000003
+year: 1970
+region: NA
+province: Xinjiang
+
+[Term]
+id: 0000120
+nameEN: Shannong 12
+nameCN: 陕农12
+defEN: Unknown
+defCN: 未知
+is_a: 0000119
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000121
+nameEN: Xibei 134
+nameCN: 西北134
+defEN: Unknown
+defCN: 未知
+is_a: 0000046
+is_a: 0000003
+year: NA
+region: NA
+province: Xinjiang
+
+[Term]
+id: 0000122
+nameEN: Shannong 4
+nameCN: 陕农4号
+defEN: Unknown
+defCN: 未知
+is_a: 0000044
+is_a: 0000003
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000123
+nameEN: Danmai 1
+nameCN: 丹麦1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000124
+nameEN: Fengchan 3
+nameCN: 丰产3号
+defEN: Strong growth, lodging resistance, stripe rust resistance and strong adaptability
+defCN: 生长势壮、抗倒伏、抗条锈病、适应性强
+is_a: 0000003
+is_a: 0000123
+year: 1965
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000125
+nameEN: Suwon 86
+nameCN: 水原86
+defEN: From Korea
+defCN: 来自韩国
+year: NA
+region: South Korea
+province: NA
+
+[Term]
+id: 0000126
+nameEN: Xiannong 39
+nameCN: 咸农39
+defEN: Unknown
+defCN: 未知
+is_a: 0000003
+is_a: 0000125
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000127
+nameEN: Guancun 1
+nameCN: 官村1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000003
+is_a: 0000008
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000128
+nameEN: Jinan 2
+nameCN: 济南2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000002
+is_a: 0000011
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000129
+nameEN: Luoyang 8
+nameCN: 洛阳8号
+defEN: Unknown
+defCN: 未知
+is_a: 0000003
+is_a: 0000128
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Henan
+
+[Term]
+id: 0000130
+nameEN: Xinyang 1
+nameCN: 信阳1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000006
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Henan
+
+[Term]
+id: 0000131
+nameEN: Wangmai 15
+nameCN: 望麦15
+defEN: Rust resistant, white grain, high-yield, awnless, semi creeping seedlings, narrow leaves, weak winter, cold resistant, relatively resistant to scab and powdery mildew, relatively resistant to humidity.
+defCN: 抗锈病, 白粒, 丰产, 无芒, 幼苗半匍匐, 叶狭窄, 弱冬性, 抗寒, 较抗赤霉病和白粉病, 较耐湿.
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000132
+nameEN: Wannian 2
+nameCN: 万年2号
+defEN: The seedlings are semi creeping, weak in winter and spring, cold resistant, thin in glume, loose in seed mouth, easy to thresh but not to drop grains, red in grain, not easy to sprout on the spike, good in yield, resistant to stripe rust and midge, not resistant to fertilizer, and weak in lodging resistance.
+defCN: 幼苗半匍匐, 弱冬偏春性, 抗寒, 颖壳薄, 籽口松, 易脱粒不落粒, 籽粒红色, 不易在穗上发芽, 丰产性好, 抗条锈病和抗吸浆虫, 不耐肥, 抗倒力弱.
+is_a: 0000006
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Anhui
+
+[Term]
+id: 0000133
+nameEN: Emai 6
+nameCN: 鄂麦6号
+defEN: Radiation mutagenesis，It basically maintains its parents' early maturity, adaptability, high yield, resistance to stripe rust, and resistance to scab, weak winter to spring, cold resistance, fast grouting progress, red grain color, long dormancy period, and high 1000 grain weight.
+defCN: 辐射诱变, 基本保持亲本早熟性, 适应性, 丰产性, 抗条锈病性, 且抗赤霉病, 弱冬偏春性, 抗寒, 灌浆进度快, 粒色变红, 休眠期长, 千粒重高.
+is_a: 0000006
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000134
+nameEN: Emai 9
+nameCN: 鄂麦9号
+defEN: Department selection, Maintain the comprehensive high-yield and adaptability of the parent, and turn into white shell and white grain. The 1000 grain weight, ear rate and yield are improved.
+defCN: 系选, 保持亲本综合丰产性和适应性, 并变为白壳白粒, 千粒重提高, 成穗率提高, 产量也有所提高.
+is_a: 0000133
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000135
+nameEN: Dian 750025-12
+nameCN: 滇750025-12
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000136
+nameEN: Emai 12
+nameCN: 鄂麦12号
+defEN: The comprehensive characters are greatly improved than those of Emai 6.
+defCN: 综合性状比鄂麦6有较大提高.
+is_a: 0000133
+is_a: 0000135
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+NO: guo990004
+
+[Term]
+id: 0000137
+nameEN: Baimangmai
+nameCN: 白芒麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: northwestern spring wheat  region
+province: Ningxia Hui Autonomous Region
+
+[Term]
+id: 0000138
+nameEN: Baihuomai
+nameCN: 白火麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: northwestern spring wheat  region
+province: Ningxia
+
+[Term]
+id: 0000139
+nameEN: Neixiang 9
+nameCN: 内乡9号
+defEN: The stem is strong, the spike is big and the grain is big, obviously over parent, the 1000 grain weight is 40g, the spike grain weight is 1g, resistant to stripe rust, susceptible to leaf rust, early and medium maturity, and the mouth is tight and belongs to the middle type of parents.
+defCN: 茎秆粗壮, 穗大粒大, 明显超亲, 千粒重40g, 穗粒重1g, 抗条锈病, 感叶锈病, 早中熟, 口松紧属亲本中间类型.
+is_a: 0000019
+is_a: 0000137
+is_a: 0000138
+is_a: 0000006
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000140
+nameEN: Anhui 9
+nameCN: 安徽9号
+defEN: It is resistant to rust, early maturing and high yield, and the early maturing is super parent inheritance. It is slightly stronger than Nanda 2419 in cold resistance, with red grains and a thousand grain weight of 36-40g.
+defCN: 抗锈病，早熟丰产，早熟性超亲遗传，抗寒比南大2419略强，籽粒红色，千粒重36-40g.
+is_a: 0000033
+is_a: 0000006
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Anhui
+
+[Term]
+id: 0000141
+nameEN: Anhui 10
+nameCN: 安徽10号
+defEN: Same as Anhui 9.
+defCN: 同安徽9.
+is_a: 0000033
+is_a: 0000006
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Anhui
+
+[Term]
+id: 0000142
+nameEN: B91-80
+nameCN: B91-80
+defEN: Unknown
+defCN: 未知
+yaer: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000143
+nameEN: Huazao 2
+nameCN: 华早2号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000144
+nameEN: Huamai 8
+nameCN: 华麦8号
+defEN: Unknown
+defCN: 未知
+is_a: 0000142
+is_a: 0000006
+is_a: 0000143
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000145
+nameEN: Huaxifenzhixiaomai
+nameCN: 华西分支小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000146
+nameEN: Nannongdaheimang
+nameCN: 南农大黑芒
+defEN: Early maturity and high yield, spring character, slightly poor cold resistance, early maturity, cudgel to rectangular spike, many grains per spike, generally 35-40 grains, large grains, 35-40g, easy to thresh, high resistance to stripe rust, light susceptibility to leaf rust, medium susceptibility to stem rust, super parent inheritance at maturity, black awn at milk maturity.
+defCN: 早熟丰产, 春性, 抗寒稍差, 早熟, 穗棍棒至长方形, 穗粒数多, 一般35-40粒, 粒大, 35-40g, 较易脱粒, 高抗条锈病, 轻感叶锈病, 中感秆锈病, 成熟期出现超亲遗传, 乳熟期麦芒呈黑色.
+is_a: 0000006
+is_a: 0000145
+year: 1951
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000147
+nameEN: fenzhixiaomai
+nameCN: 分支小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000148
+nameEN: Huamai 7
+nameCN: 华麦7号
+defEN: It is generally 10% - 20% higher than Nanda 2419. Its maturity period is similar to Nanda 2419's. It is resistant to stripe rust and leaf rust, slightly susceptible to stem rust and scab, white grain, and has good taste.
+defCN: 一般比南大2419增产10%-20%, 成熟期与南大相仿, 抗条锈病和叶锈病强, 轻感秆锈病和赤霉病, 白粒, 品相好.
+is_a: 0000006
+is_a: 0000147
+is_a: 0000007
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000149
+nameEN: Jingzhoubendiheimai
+nameCN: 荆州本地黑麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000150
+nameEN: Jingzhou 1
+nameCN: 荆州1号
+defEN: Spring, red wheat, early maturing, immune to stripe rust, resistant to leaf rust, relatively resistant to scab, strong moisture resistance, barren resistance.
+defCN: 春性, 红麦, 早熟, 条锈病免疫, 抗叶锈病, 较抗赤霉病, 耐湿性强, 耐瘠薄.
+is_a: 0000149
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000151
+nameEN: Jingzhou 2
+nameCN: 荆州2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000149
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000152
+nameEN: Jingzhou 47
+nameCN: 荆州47
+defEN: Unknown
+defCN: 未知
+is_a: 0000151
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region,     
+province: Hubei 
+
+[Term]
+id: 0000153
+nameEN: Yinglixiaomai
+nameCN: 硬粒小麦
+defEN: From Egypt
+defCN: 来自埃及
+year: NA
+region: Egypt
+province: NA
+
+[Term]
+id: 0000154
+nameEN: Jingzhou 66
+nameCN: 荆州66
+defEN: Weak spring, resistance to stripe rust, stem rust and powdery mildew, light scab, and good comprehensive yield.
+defCN: 弱春性, 抗条锈病, 秆锈病和白粉病, 赤霉病轻, 综合丰产性状较好.
+is_a: 0000149
+is_a: 0000007
+is_a: 0000153
+year: 1975
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000155
+nameEN: Nonglin 10
+nameCN: 农林10号
+defEN: From Japan
+defCN: 来自日本
+year: NA
+region: Japan
+province: NA
+
+[Term]
+id: 0000156
+nameEN: Jingzhou 32 zao 1
+nameCN: 荆州32早1
+defEN: Unknown
+defCN: 未知
+is_a: 0000155
+is_a: 0000154
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000157
+nameEN: Chuan 68-6698
+nameCN: 川68-6698
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000158
+nameEN: Xiangmai 13
+nameCN: 湘麦13
+defEN: Good comprehensive properties, relatively resistant to scab.
+defCN: 综合性状好，较抗赤霉病.
+is_a: 0000156
+is_a: 0000157
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hunan
+
+[Term]
+id: 0000159
+nameEN: Emai 2
+nameCN: 鄂麦2号
+defEN: Unknown
+defCN: 未知
+year: 2010
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000160
+nameEN: Xinyang 7
+nameCN: 信阳7号
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000159
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000161
+nameEN: Ningfengxiaomai
+nameCN: 宁丰小麦
+defEN: Short stem and big spike, resistant to fertilizer and lodging, early maturing.
+defCN: 矮杆大穗, 耐肥抗倒, 早熟.
+is_a: 0000006
+is_a: 0000015
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000162
+nameEN: Zaowu-3-4-5-9-7
+nameCN: 早五-3-4-5-9-7
+defEN: From Shandong Agricultural University
+defCN: 来自山东农业大学
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000163
+nameEN: Yangmai 6
+nameCN: 杨麦6号
+defEN: Medium short stalk, strong lodging resistance, cold resistance, high spike rate, resistance to leaf rust, scab, moderate susceptibility to powdery mildew, late maturity, slightly poor maturity.
+defCN: 中矮秆, 抗倒强, 抗寒, 成穗率高, 抗叶锈病, 耐赤霉病, 中感白粉病, 熟期偏晚, 熟相稍差.
+is_a: 0000161
+is_a: 0000162
+year: 1988-1989
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000164
+nameEN: XiFeng
+nameCN: 西风
+defEN: From Japan
+defCN: 来自日本
+year: NA
+region: Japan
+province: NA
+
+[Term]
+id: 0000165
+nameEN: Ningmai 9
+nameCN: 宁麦9号
+defEN: Suitable for making cookies and cakes.
+defCN: 适合制作饼干糕点.
+is_a: 0000163
+is_a: 0000164
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000166
+nameEN: Yi 17
+nameCN: 意17
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000167
+nameEN: Emai 8
+nameCN: 鄂麦8号
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000166
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000168
+nameEN: Zhongshan 6
+nameCN: 钟山6号
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000073
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000169
+nameEN: Sulianzaoshu 36
+nameCN: 苏联早熟36
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000170
+nameEN: Neixiang 5 
+nameCN: 内乡5号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000171
+nameEN: Simai 2
+nameCN: 泗麦2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000169
+is_a: 0000170
+is_a: 0000084
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000172
+nameEN: Xiangmai 4
+nameCN: 襄麦4号
+defEN: It ripens 2-3 days earlier than Arbor, has less leaf rust and other diseases, stronger cold and drought resistance, and severe stripe rust.
+defCN: 比阿勃早熟2-3d, 叶锈病等病害较轻, 耐寒耐旱较强, 条锈病重.
+is_a: 0000008
+year: 1962
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000173
+nameEN: Xinyang 12
+nameCN: 信阳12
+defEN: Spring, medium early maturity, cold resistance and waterlogging resistance, stout stems, large and plump ears, 1000 grain weight of 36-40g, immune to stripe rust, slightly susceptible to leaf rust, stem rust, relatively resistant to soil borne mosaic and leaf blight, and good at yellowing.
+defCN: 春性, 中早熟, 抗寒耐涝, 茎秆粗壮, 穗大饱满, 千粒重36-40g, 条锈病免疫, 轻感叶锈病, 秆锈病, 较抗土传花叶病和叶枯病, 落黄好.
+is_a: 0000008
+is_a: 0000170
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000174
+nameEN: Zhuxi 4
+nameCN: 竹溪4号
+defEN: Unknown
+defCN: 未知
+is_a: 0000008
+is_a: 0000029
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000175
+nameEN: Zhuxi 11
+nameCN: 竹溪11号
+defEN: Large spike and large grain, lodging resistance, cold resistance, moisture resistance, barren resistance, drought resistance.
+defCN: 穗大粒大, 抗倒抗寒耐湿耐瘠, 较耐旱.
+is_a: 0000174
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hubei
+
+[Term]
+id: 0000176
+nameEN: Xiangmai 1
+nameCN: 湘麦1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000029
+is_a: 0000084
+is_a: 0000132
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region
+province: Hunan
+
+[Term]
+id: 0000177
+nameEN: Boai 7023
+nameCN: 博爱7023
+defEN: The grain is larger, the protein content is slightly increased, and the yield is more stable.
+defCN: 籽粒变大, 蛋白含量稍有提高, 更加高产稳产.
+is_a: 0000007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+
+[Term]
+id: 0000178
+nameEN: Huimaoafu
+nameCN: 灰毛阿夫
+defEN: Plant height 90, large spike and many grains, resistant to stripe rust, mature later than Afu, but with strong adaptability.
+defCN: 株高90, 穗大粒多, 抗条锈病, 较阿夫成熟晚, 但适应性强.
+is_a: 0000007
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Hubei
+
+[Term]
+id: 0000179
+nameEN: Anxuan 2
+nameCN: 安选2号
+defEN: Shorter than Ah Fu, smaller spike shape, strong tillering ability, more spikes and cold tolerance than Ah Fu, and less adaptable than Ah Fu.
+defCN: 比阿夫矮, 穗形小, 分蘖能力强, 成穗数和耐寒超过阿夫, 适应性不如阿夫.
+is_a: 0000007
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000180
+nameEN: Boai 74-22
+nameCN: 博爱74-22
+defEN: It is slightly shorter than the parent, the grain color turns white, and it is resistant to soil borne mosaic disease.
+defCN: 比亲本稍矮, 粒色变白, 抗土传花叶病, 比亲本稍矮, 粒色变, 抗土传花叶病.
+is_a: 0000177
+year: 1986
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000181
+nameEN: Yumai 12 ! Fubai7023
+nameCN: 豫麦12 ! 辐白7023
+defEN: White grain, good adaptability.
+defCN: 白粒, 适应性好.
+is_a: 0000177
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000182
+nameEN: Jinguangmai
+nameCN: 金光麦
+defEN: It is resistant to rain, high temperature in the later stage, no green and dry, and good at yellowing.
+defCN: 耐阴雨, 耐后期高温不青干, 落黄好.
+is_a: 0000007
+is_a: 0000119
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000183
+nameEN: Shannong 21
+nameCN: 陕农21
+defEN: It is resistant to rain, high temperature in the later stage, no green and dry, and good at yellowing.
+defCN: 耐阴雨, 耐后期高温不青干, 落黄好.
+is_a: 0000007
+is_a: 0000119
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000184
+nameEN: Xufeng 2
+nameCN: 许丰2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000007
+is_a: 0000124
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000185
+nameEN: Zhengzhou 721
+nameCN: 郑州721
+defEN: Unknown
+defCN: 未知
+is_a: 0000007
+is_a: 0000124
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000186
+nameEN: Baiquan 673
+nameCN: 百泉673
+defEN: It is lighter than Afu's leaf blight and has a good familiarity.
+defCN: 比阿夫叶枯病轻, 熟相好.
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000187
+nameEN: Mengfeng 8
+nameCN: 蒙丰8号
+defEN: Weak winter white grain.
+defCN: 弱冬白粒.
+is_a: 0000007
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000188
+nameEN: Maoyingafu
+nameCN: 毛颖阿夫
+defEN: Unknown
+defCN: 未知
+is_a: 0000007
+year: 1961
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: Hubei
+province: Hubei
+
+[Term]
+id: 0000189
+nameEN: Siyang 117
+nameCN: 泗阳117
+defEN: Weak winterness, white grain, big grain, semi dwarf, high resistance to stem rust and leaf rust.
+defCN: 弱冬性, 白粒, 粒大, 半矮杆, 高抗秆锈病, 叶锈病.
+is_a: 0000009
+is_a: 0000169
+is_a: 0000100
+is_a: 0000188
+year: 1974
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Jiangsu
+
+[Term]
+id: 0000190
+nameEN: Wan 7107
+nameCN: 宛7107
+defEN: Mutant ear selection. Weak spring, early maturity, 80 plant height, dense ear segments, resistance to stripe rust, good yellowing.
+defCN: 变异穗选. 弱春性, 早熟, 株高80, 穗段码密, 抗条锈病, 落黄好.
+is_a: 0000007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000191
+nameEN: 65(14)3
+nameCN: 65(14)3
+defEN: Unknown
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000192
+nameEN: Lumaidasui
+nameCN: 鲁麦大穗
+defEN: Unknown
+defCN: 未知
+is_a: 0000191
+is_a: 0000188
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000193
+nameEN: Yumai 4
+nameCN: 豫麦4号
+defEN: Radiation mutagenesis. High yield and early maturity.
+defCN: 辐射诱变. 丰产早熟.
+is_a: 0000007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000194
+nameEN: 6112-3
+nameCN: 6112-3
+defEN: Radiation mutagenesis.
+defCN: 辐射诱变.
+is_a: 0000007
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000195
+nameEN: Xuzhou 17
+nameCN: 徐州17
+defEN: Unknown
+defCN: 未知
+is_a: 0000194
+is_a: 0000009
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000196
+nameEN: Zhengzhou 17
+nameCN: 郑州17
+defEN: Rust resistance of big spike and big grain.
+defCN: 大穗大粒抗锈病.
+is_a: 0000170
+is_a: 0000007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000197
+nameEN: Zhengzhou 18
+nameCN: 郑州18
+defEN: Rust resistance of big spike and big grain.
+defCN: 大穗大粒抗锈病.
+is_a: 0000170
+is_a: 0000007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000198
+nameEN: Xuchang 26
+nameCN: 许昌26
+defEN: Unknown
+defCN: 未知
+is_a: 0000170
+is_a: 0000007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000199
+nameEN: Kaifeng 10
+nameCN: 开封10号
+defEN: Unknown
+defCN: 未知
+is_a: 0000170
+is_a: 0000007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000200
+nameEN: Youyi 1 ! Neifu
+nameCN: 友谊1号 ! 内夫
+defEN: Unknown
+defCN: 未知
+is_a: 0000170
+is_a: 0000007
+year: NA
+region: Northeast Spring Wheat Region
+province: Heilongjiang
+
+[Term]
+id: 0000201
+nameEN: Tangpudali
+nameCN: 汤濮大粒
+defEN: Unknown
+defCN: 未知
+is_a: 0000200
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000202
+nameEN: Nongda 45
+nameCN: 农大45
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000203
+nameEN: Shi 67-3102
+nameCN: 石67-3102
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000204
+nameEN: Youmangbai 4
+nameCN: 有芒白4号
+defEN: Early maturity, resistance to stripe rust, light powdery mildew, flexible stems, fast grouting and good yellowing.
+defCN: 早熟, 抗条锈病, 白粉病轻, 茎秆有韧性, 灌浆快, 落黄好.
+is_a: 0000202
+is_a: 0000005
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000205
+nameEN: Fengkang 4
+nameCN: 丰抗4号
+defEN: The maturity is one day earlier than Fengkang 2, and the cold resistance is not as good.
+defCN: 熟期比丰抗2早一天, 抗寒不及.
+is_a: 0000204
+is_a: 0000010
+year: NA
+region: Northern winter wheat region  
+province: Tianjin
+
+[Term]
+id: 0000206
+nameEN: Fengkang 5
+nameCN: 丰抗5号
+defEN: Unknown
+defCN: 未知
+is_a: 0000204
+is_a: 0000010
+year: NA
+region: Northern winter wheat region  
+province: Tianjin
+
+[Term]
+id: 0000207
+nameEN: Fengkang 1
+nameCN: 丰抗1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000204
+is_a: 0000010
+year: NA
+region: Northern winter wheat region  
+province: Tianjin
+[Term]
+id: 0000208
+nameEN: Fengkang 2
+nameCN: 丰抗2号
+defEN: Stems are tough, fertilizer tolerant, water loving, lodging resistant, with many spikes, good productivity, immune to multiple races of stripe rust, highly resistant to leaf rust, light powdery mildew, white grains, semi hard, 38g per 1000 grains, good yellowing, late maturity, and slow grain dehydration.
+defCN: 秆坚韧, 耐肥, 喜水, 抗倒伏, 成穗多, 丰产性好, 对条锈菌多个小种免疫至高抗, 也抗叶锈病, 白粉病轻, 白粒, 半硬质, 千粒重38g, 落黄转色好, 熟期偏晚, 籽粒脱水慢.
+is_a: 0000204
+is_a: 0000010
+year: NA
+region: Northern winter wheat region  
+province: Tianjin
+
+[Term]
+id: 0000209
+nameEN: Beijing 18
+nameCN: 北京18
+defEN: Unknown
+defCN: 未知
+is_a: 0000202
+is_a: 0000203
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000210
+nameEN: Nongda139
+nameCN: 农大139
+defEN: Unknown
+defCN: 未知
+year: 2002
+region: Northern winter wheat region
+province: NA
+
+[Term]
+id: 0000211
+nameEN: Beijing 841
+nameCN: 北京841
+defEN: Unknown
+defCN: 未知
+is_a: 0000205
+is_a: 0000209
+is_a: 0000210
+year: 1996
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000212
+nameEN: Jinfeng 1
+nameCN: 津丰1号
+defEN: Radiation mutagenesis
+defCN: 辐射诱变
+is_a: 0000391
+year: 1990
+region: Northern winter wheat region 
+province: Tianjin
+
+[Term]
+id: 0000213
+nameEN: 7201
+nameCN: 7201
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000214
+nameEN: Jinmai 2
+nameCN: 津麦2
+defEN: Medium early maturity, lodging resistance, large spike capacity, high resistance to stripe rust, light powdery mildew, compact plant type, small spike, and no resistance to dry hot wind.
+defCN: 中早熟, 抗倒伏, 成穗多, 穗容量大, 高抗条锈病, 白粉病轻, 株型紧凑, 穗小, 不耐干热风.
+is_a: 0000210
+is_a: 0000212
+is_a: 0000213
+is_a: 0000010
+year: 1982
+region: Northern winter wheat region 
+province: Tianjin
+
+[Term]
+id: 0000215
+nameEN: Changfeng 1 ! 74 Chang 1
+nameCN: 长丰1号 ! 74长1
+defEN: Slightly good cold resistance, upright leaves, good appearance, moderate disease resistance.
+defCN: 抗寒性稍好, 叶片直立, 外观较好, 抗病性中等.
+is_a: 0000204
+is_a: 0000085
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000216
+nameEN: Jing 411
+nameCN: 京411
+defEN: Late maturity, disease resistance, cold resistance, plant height, appearance, spike type, good yield, poor quality.
+defCN: 晚熟, 抗病, 抗寒, 株高, 长相, 穗型, 产量较好, 品质较差.
+is_a: 0000208
+is_a: 0000215
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000217
+nameEN: Jing 437
+nameCN: 京437
+defEN: The plant is slightly high and the stem is relatively soft.
+defCN: 植株稍高, 茎秆较软.
+is_a: 0000208
+is_a: 0000215
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000218
+nameEN: Gaines
+nameCN: 根思
+defEN: From the United States
+defCN: 来自美国
+year: NA
+region: USA
+province: NA
+
+[Term]
+id: 0000219
+nameEN: Jingzuo 230 ! Nongke 1
+nameCN: 京作230 ! 农科1号
+defEN: Good wintering performance.
+defCN: 越冬性好.
+is_a: 0000233
+is_a: 0000232
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000220
+nameEN: Nongda 166
+nameCN: 农大166
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000221
+nameEN: CA 8361
+nameCN: 京顺3109
+defEN: Unknown
+defCN: 未知
+is_a: 0000010
+is_a: 0000218
+is_a: 0000219
+is_a: 0000220
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000222
+nameEN: Fengshoumai S-6
+nameCN: 丰收麦S-6
+defEN: From Italy
+defCN: 来自意大利
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000223
+nameEN: Yuannong 39
+nameCN: 原农39
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000224
+nameEN: Yunmai 32
+nameCN: 云麦32
+defEN: Unknown
+defCN: 未知
+is_a: 0000018
+is_a: 0000222
+year: NA
+region: South China Winter Wheat Region
+province: Yunnan
+
+[Term]
+id: 0000225
+nameEN: Yuannong 60
+nameCN: 原农60
+defEN: Radiation mutagenesis
+defCN: 辐射诱变
+is_a: 0000009
+is_a: 0000223
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000226
+nameEN: Fan 13
+nameCN: 繁13
+defEN: Inherit the characteristics of parents' rust resistance and high yield, with medium plant height, long spike type, red shell and red grain, 40-45g 1000 grain weight, high yield potential, late maturity, and easy to drop grains.
+defCN: 继承双亲抗锈病, 丰产的特点, 株高中等, 穗型长方, 红壳红粒, 千粒重40-45g, 高产潜力, 成熟晚, 口松易落粒.
+is_a: 0000018
+is_a: 0000225
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000227
+nameEN: Bao 2114
+nameCN: 保2114
+defEN: Similar to Fan 13, its yield potential is slightly higher.
+defCN: 类似繁13, 丰产潜力比它稍高.
+is_a: 0000018
+is_a: 0000225
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000228
+nameEN: Chengduguangtoufenzhimai
+nameCN: 成都光头分支麦
+defEN: Unknown
+defCN: 未知
+is_a: 0000016
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000229
+nameEN: Datouhuang
+nameCN: 大头黄
+defEN: More flowers and more seeds stand out, with certain drought and alkali tolerance.
+defCN: 多花多粒突出, 一定耐旱耐碱能力.
+is_a: 0000228
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region     
+province: Hubei
+
+[Term]
+id: 0000230
+nameEN: Youpi 1
+nameCN: 尤皮1号
+defEN: Immune to multiple physiological races of stripe rust, with strong genetic transmissibility, late maturity and poor cold resistance.
+defCN: 对条锈病多个生理小种免疫, 遗传传递力强, 较晚熟, 抗寒差.
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000231
+nameEN: Luonong 14
+nameCN: 洛农14
+defEN: Cold and drought resistant, late frost resistant, highly resistant to stripe rust, relatively resistant to red dwarf, yellow dwarf, white grain.
+defCN: 抗寒耐旱, 抗晚霜冻害, 高抗条锈病, 较抗红矮病, 黄矮病, 白粒.
+is_a: 0000230
+is_a: 0000054
+is_a: 0000005
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000232
+nameEN: Weier
+nameCN: 维尔
+defEN: From Italy
+defCN: 来自意大利
+year: NA
+region: Italy
+province: NA
+
+[Term]
+id: 0000233
+nameEN: Beijing 6
+nameCN: 北京6号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000234
+nameEN: Youmanghong 7
+nameCN: 有芒红7号
+defEN: Good wintering performance.
+defCN: 越冬性好.
+is_a: 0000233
+is_a: 0000232
+year: 1999
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000235
+nameEN: 5711-46
+nameCN: 5711-46
+defEN: Unknown
+defCN: 未知
+is_a: 0000065
+is_a: 0000002
+is_a: 0000100
+is_a: 0000068
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000236
+nameEN: Beijing 11
+nameCN: 北京11
+defEN: Unknown
+defCN: 未知
+is_a: 0000235
+is_a: 0000005
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000237
+nameEN: Anyang 1
+nameCN: 安阳1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000005
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000238
+nameEN: Kedong 81
+nameCN: 科冬81
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000005
+year: 1999
+region: Northern winter wheat region 
+province: NA
+
+[Term]
+id: 0000239
+nameEN: Kechun 14
+nameCN: 科春14
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000005
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000240
+nameEN: Jinzhong 4
+nameCN: 晋中4号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000241
+nameEN: 963
+nameCN: 963
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000242
+nameEN: Xindongzao 1
+nameCN: 忻冬早1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000240
+is_a: 0000241
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000243
+nameEN: 708
+nameCN: 708
+defEN: Unknown
+defCN: 未知
+is_a: 0000240
+is_a: 0000241
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000244
+nameEN: jinnong52
+nameCN: 晋农52
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000245
+nameEN: Xindongzao 2
+nameCN: 忻冬早2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000244
+is_a: 0000005
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000246
+nameEN: 609
+nameCN: 609
+defEN: Unknown
+defCN: 未知
+is_a: 0000244
+is_a: 0000005
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000247
+nameEN: Xintezao 1
+nameCN: 忻特早1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000243
+is_a: 0000246
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000248
+nameEN: Xintezao 2
+nameCN: 忻特早2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000243
+is_a: 0000246
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000249
+nameEN: Beiwu 3
+nameCN: 北无3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000250
+nameEN: 79-64
+nameCN: 79-64
+defEN: Unknown
+defCN: 未知
+is_a: 0000249
+is_a: 0000248
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000251
+nameEN: 79-66
+nameCN: 79-66
+defEN: Unknown
+defCN: 未知
+is_a: 0000249
+is_a: 0000248
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000252
+nameEN: 79-114
+nameCN: 79-114
+defEN: Unknown
+defCN: 未知
+is_a: 0000249
+is_a: 0000248
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000253
+nameEN: Kedandong 51
+nameCN: 科单冬51
+defEN: Unknown
+defCN: 未知
+is_a: 0000121
+is_a: 0000005
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000254
+nameEN: Haienhaide
+nameCN: 亥恩亥德
+defEN: From Germany. Strong winterness, sensitive to light length, short and strong stems, large spikes and many grains, resistant to stripe rust, late maturing.
+defCN: 来自德国. 强冬性, 对光长敏感, 秆较矮壮, 穗大粒多, 抗条锈病, 晚熟.
+year: NA
+region: Germany
+province: NA
+
+[Term]
+id: 0000255
+nameEN: Beijing 7
+nameCN: 北京7号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000256
+nameEN: Jimai 9 ! Cangzhou 1
+nameCN: 冀麦9号 ! 沧州1号
+defEN: Winter, mid early maturity
+defCN: 冬性、中早熟
+is_a: 0000009
+is_a: 0000255
+is_a: 0000065
+is_a: 0000230
+year: 1970
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000257
+nameEN: Beijing 14
+nameCN: 北京14号
+defEN: It is resistant to fertilizer and lodging, with large ears and many grains, large grains, white grains, resistance to stripe rust, and medium and late maturity.
+defCN: 耐肥抗倒伏, 穗大粒多, 粒大粒白, 抗条锈病, 中晚熟.
+is_a: 0000005
+is_a: 0000009
+is_a: 0000254
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000258
+nameEN: Hongliang 4
+nameCN: 红良4号
+defEN: precocious.
+defCN: 早熟.
+is_a: 0000257
+year: 1999
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000259
+nameEN: Jimai 1 ! 12057
+nameCN: 冀麦1号 ! 12057
+defEN: Good yield, relatively lodging resistant, moderately resistant to stripe rust, quick grouting, good yellowing, white grains, hard, 1000 grain weight 39-40g.
+defCN: 丰产性好, 较抗倒伏, 中抗条锈病, 灌浆快, 落黄好, 白粒, 硬质, 千粒重39-40g.
+is_a: 0000257
+year: 1983
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000260
+nameEN: Jimai 2 ! 12040
+nameCN: 冀麦2号 ! 12040
+defEN: The winter character is slightly weak, the maturity is early, the number of mature ears is small, the ears are large, and the 1000 grain weight is 41-42g.
+defCN: 冬性稍弱, 熟期较早, 成穗数偏少, 穗大, 千粒重41-42g.
+is_a: 0000257
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000261
+nameEN: Hongliang 5
+nameCN: 红良5号
+defEN: Medium late maturity
+defCN: 中晚熟
+is_a: 0000257
+year: 1990
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000262
+nameEN: Jingshuang 2
+nameCN: 京双2号
+defEN: Unknown
+defCN: 未知
+is_a: 0000257
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000263
+nameEN: Jingshuang 3
+nameCN: 京双3号
+defEN: Unknown
+defCN: 未知
+is_a: 0000257
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000264
+nameEN: Kangyin 655
+nameCN: 抗引655
+defEN: Germplasm resistant to multiple stripe rust races and leaf rust.
+defCN: 兼抗多个条锈病小种和叶锈病种质.
+is_a: 0000005
+is_a: 0000266
+is_a: 0000169
+year: 1970
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000265
+nameEN: Fengkang 13
+nameCN: 丰抗13
+defEN: It is highly resistant to multiple races of stripe rust and has wide adaptability.
+defCN: 对条锈病多个小种免疫至高抗, 适应性广.
+is_a: 0000257
+is_a: 0000264
+year: 1990
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000266
+nameEN: Suwon 11
+nameCN: 水原11
+defEN: From Korea
+defCN: 来自韩国
+year: NA
+region: South Korea
+province: NA
+
+[Term]
+id: 0000267
+nameEN: Changwu 702
+nameCN: 长武702
+defEN: The plant is on the high side, able to survive winter, resistant to drought and barren, immune to multiple stripe rust races, highly resistant to leaf rust, white grain, hard, medium mature.
+defCN: 植株偏高, 能越冬, 抗旱耐瘠, 对多个条锈病小种免疫, 高抗叶锈病, 白粒, 硬质, 中熟.
+is_a: 0000005
+is_a: 0000266
+is_a: 0000169
+year: 1971
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000268
+nameEN: Changwu 7125
+nameCN: 长武7125
+defEN: The shape is similar to Changwu 702, the stem is slightly short, relatively resistant to lodging, the grain is red, the 1000 grain weight is 38g, the drought resistance is poor, and it likes to fertilize water. It is immune to several stripe rust races, and highly resistant to leaf rust.
+defCN: 形态与长武702相似, 茎秆稍矮, 较抗倒伏, 籽粒红色, 千粒重38g, 耐旱性较差, 喜肥水, 对多个条锈病小种免疫, 高抗叶锈病.
+is_a: 0000005
+is_a: 0000266
+is_a: 0000169
+year: 1971
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000269
+nameEN: 7122
+nameCN: 7122
+defEN: Unknown
+defCN: 未知
+is_a: 0000005
+is_a: 0000266
+is_a: 0000169
+year: NA
+region: South China Winter Wheat Region
+province: Guangdong
+
+[Term]
+id: 0000270
+nameEN: ICAR 124-D
+nameCN: 伊卡124-D
+defEN: Introduced from Romania rust resistant variety, with fair agronomic characteristics and late maturity.
+defCN: 引自罗马尼亚抗锈病品种, 农艺性状尚可, 晚熟.
+year: NA
+region: Romania
+province: NA
+
+[Term]
+id: 0000271
+nameEN: Beijing 13
+nameCN: 北京13
+defEN: Cold and drought resistant, luxuriant, resistant to stripe rust, medium and late maturing, white grain.
+defCN: 抗寒耐旱, 生长繁茂, 抗条锈病, 中晚熟, 白粒.
+is_a: 0000005
+is_a: 0000065
+is_a: 0000270
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000272
+nameEN: Jinmai 2 ! Taifu 34
+nameCN: 晋麦2号 ! 太辐34
+defEN: Unknown
+defCN: 未知
+is_a: 0000233
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000273
+nameEN: Jingzuo 208
+nameCN: 京作208
+defEN: Unknown
+defCN: 未知
+is_a: 0000005
+is_a: 0000254
+is_a: 0000233
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000274
+nameEN: Jingzuo 210
+nameCN: 京作210
+defEN: Unknown
+defCN: 未知
+is_a: 0000005
+is_a: 0000254
+is_a: 0000233
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000275
+nameEN: Jinmai 6 ! Changzhi 313
+nameCN: 晋麦6号 ! 长治313
+defEN: Unknown
+defCN: 未知
+is_a: 0000008
+is_a: 0000233
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000276
+nameEN: Taiyuan 69
+nameCN: 太原69
+defEN: Unknown
+defCN: 未知
+is_a: 0000008
+is_a: 0000233
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000277
+nameEN: Jinmai 24 ! Changzhi 6406
+nameCN: 晋麦24号 ! 长治6406
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000278
+nameEN: Taiyuan 110
+nameCN: 太原110
+defEN: Unknown
+defCN: 未知
+is_a: 0000276
+is_a: 0000277
+year: NA
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000279
+nameEN: jimai 22
+nameCN: 济麦22
+defEN: Unknown
+defCN: 未知
+is_a: 0000974
+is_a: 0000975
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+NO: guo2006018
+
+[Term]
+id: 0000280
+nameEN: zhengmai 9023
+nameCN: 郑麦9023
+defEN: Unknown
+defCN: 未知
+is_a: 0000459
+is_a: 0000956
+is_a: 0000961
+is_a: 0000962
+is_a: 0000958
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: yu2001003
+
+[Term]
+id: 0000281
+nameEN: Yannong 19
+nameCN: 烟农19
+defEN: Unknown
+defCN: 未知
+is_a: 0000435
+is_a: 0000436
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong 
+
+[Term]
+id: 0000282
+nameEN: bainong AK 58 ! aikang 58
+nameCN: 百农AK58 ! 矮抗58
+defEN: Unknown
+defCN: 未知
+is_a: 0000437
+is_a: 0000438
+is_a: 0000439
+year: 2005
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000283
+nameEN: xinong 979
+nameCN: 西农979
+defEN: Unknown
+defCN: 未知
+is_a: 0000586
+is_a: 0000589
+#西农979 是可追溯的
+year: 1997
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo2005005
+
+[Term]
+id: 0000284
+nameEN: han 6172 ! Handan 6172
+nameCN: 邯6172 ! 邯郸6172
+defEN: Unknown
+defCN: 未知
+is_a: 0000440
+is_a: 0000441
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000285
+nameEN: zhoumai 22
+nameCN: 周麦22
+defEN: Semi winter, medium mature.
+defCN: 半冬性，中熟。
+is_a: 0000442
+is_a: 0000438
+is_a: 0000443
+year: 2006
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo2007007
+
+[Term]
+id: 0000286
+nameEN: bainong 207
+nameCN: 百农207
+defEN: High and stable yield, large spike, strong disease resistance
+defCN: 高产、稳产、大穗、抗病性强
+is_a: 0000318
+is_a: 0000444
+year: 2013
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo2013010
+
+[Term]
+id: 0000287
+nameEN: luyuan 502
+nameCN: 鲁源502
+defEN: Long spike, long awn, white shell, white grain, seedling semi creeping
+defCN: 长方穗、长芒、白壳、白粒，幼苗半匍匐
+is_a: 0000445
+is_a: 0000317
+year: 2011
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+
+[Term]
+id: 0000288
+nameEN: jimai 20
+nameCN: 济麦20号
+defEN: Unknown
+defCN: 未知
+is_a: 0000446
+is_a: 0000447
+year: 2004
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+
+[Term]
+id: 0000289
+nameEN: shannong 20
+nameCN: 山农20
+defEN: Semi winter, medium late maturity.
+defCN: 半冬性，中晚熟
+is_a: 0000449
+is_a: 0000450
+year: 2007
+region: Yellow and HuaiRiver valley winter wheat region   
+province: Shandong
+NO: guo2011012
+
+[Term]
+id: 0000290
+nameEN: zhengmai 366
+nameCN: 郑麦366
+defEN: Early and middle maturing varieties, seedlings semi creeping
+defCN: 早中熟品种，幼苗半匍匐
+is_a: 0000448
+is_a: 0000449
+year: 2005
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Henan
+NO: yu2005006
+
+[Term]
+id: 0000291
+nameEN: zhongmai 895
+nameCN: 中麦895
+defEN: Unknown
+defCN: 未知
+is_a: 0000318
+is_a: 0000452
+year: 2012
+region: Yellow and HuaiRiver valley winter wheat region 
+province: NA
+NO: guo2012010
+
+[Term]
+id: 0000292
+nameEN: yumai 18
+nameCN: 豫麦18
+defEN: Unknown
+defCN: 未知
+is_a: 0000453
+is_a: 0000454
+year: 1991
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000293
+nameEN: shannong 28
+nameCN: 山农28
+defEN: Unknown
+defCN: 未知
+is_a: 0000455
+is_a: 0000456
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+NO: guo20170018
+
+[Term]
+id: 0000294
+nameEN: liangxing 99
+nameCN: 良星99
+defEN: Unknown
+defCN: 未知
+is_a: 0000457
+is_a: 0000458
+is_a: 0000446
+year: 2013
+region: Yellow and HuaiRiver valley winter wheat region 
+province: NA
+NO: ji2012009
+
+[Term]
+id: 0000295
+nameEN: xiaoyan 22
+nameCN: 小偃22
+defEN: Unknown
+defCN: 未知
+is_a: 0000459
+is_a: 0000460
+is_a: 0000461
+year: 1998
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000296
+nameEN: Hengguan 35
+nameCN: 衡观35
+defEN: Unknown
+defCN: 未知
+is_a: 0000462
+is_a: 0000463
+year: 2004
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000297
+nameEN: zhengmai 7698
+nameCN: 郑麦7698
+defEN: Unknown
+defCN: 未知
+is_a: 0000464
+is_a: 0000465
+is_a: 0000318
+year: 2012
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: yu2011008
+
+[Term]
+id: 0000298
+nameEN: xinmai 18 ! xinmai 9408
+nameCN: 新麦18 ! 新麦9408
+defEN: Unknown
+defCN: 未知
+is_a: 0000466
+is_a: 0000467
+is_a: 0000468
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Henan
+NO: guo2004005
+
+[Term]
+id: 0000299
+nameEN: shannong 29
+nameCN: 山农29号
+defEN: Unknown
+defCN: 未知
+is_a: 0000469
+is_a: 0000470
+year: 2016
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+NO: guo2016024
+
+[Term]
+id: 0000300
+nameEN: zhengmai 379
+nameCN: 郑麦379
+defEN: Unknown
+defCN: 未知
+is_a: 0000471
+is_a: 0000472
+year: 2012
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000301
+nameEN: wanmai 19
+nameCN: 皖麦19
+defEN: Unknown
+defCN: 未知
+is_a: 0000180
+is_a: 0000386
+#这个可追溯
+year: 1991
+region: Yellow and HuaiRiver valley winter wheat regio
+province: Anhui
+
+[Term]
+id: 0000302
+nameEN: liangxing 66
+nameCN: 良星66 
+defEN: Liangxing 66, semi winter, medium late maturity
+defCN: 良星66，该品种半冬性，中晚熟
+is_a: 0000458
+is_a: 0000473
+year: 2010
+region: Yellow and HuaiRiver valley winter wheat regio
+province: Shandong
+NO: guo2010004
+
+[Term]
+id: 0000303
+nameEN: zhoumai 27
+nameCN: 周麦27
+defEN: The seedling of Zhoumai 27 is semi creeping, with narrow and long leaves, general tillering ability and medium percentage of ears.
+defCN: 周麦27号幼苗半匍匐，叶窄长，分蘖力一般，成穗率中等。
+is_a: 0000318
+is_a: 0000282
+year: 2011
+region: Yellow and HuaiRiver valley winter wheat regio
+province: Henan
+NO: guo2011003
+
+[Term]
+id: 0000304
+nameEN: yumai 70 ! neixiang 188
+nameCN: 豫麦70 ! 内乡188
+defEN: Unknown
+defCN: 未知
+is_a: 0000475
+is_a: 0000476
+is_a: 0000477
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000305
+nameEN: yangmai 16
+nameCN: 扬麦16号
+defEN: Unknown
+defCN: 未知
+is_a: 0000478
+is_a: 0000479
+year: 2001
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000306
+nameEN: zhongmai 175
+nameCN: 中麦175
+defEN: Unknown
+defCN: 未知
+is_a: 0000480
+is_a: 0000216
+#这个可追溯
+year: 2008
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+NO: guo2008016
+
+[Term]
+id: 0000307
+nameEN: bainong 4199
+nameCN: 百农4199
+defEN: Unknown
+defCN: 未知
+is_a: 0000481
+is_a: 0000282
+year: 2017
+region: ellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: yu2017003
+
+[Term]
+id: 0000308
+nameEN: ningmai 13
+nameCN: 宁麦13
+defEN: Systematic selection
+defCN: 系统选种
+is_a: 0000165
+#这个可追溯
+year: 2006
+yegion: Yellow and HuaiRiver valley winter wheat region
+Pprovince: Jiangsu
+NO: guo2006004
+
+[Term]
+id: 0000309
+nameEN: xindong 20
+nameCN: 新冬20号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Xinjiangwinter-spring wheat region
+province: Xinjiang 
+
+[Term]
+id: 0000310
+nameEN: yumai 34
+nameCN: 豫麦34
+defEN: Unknown
+defCN: 未知
+is_a: 0000482
+is_a: 0000483
+is_a: 0000484
+is_a: 0000386
+#这个可追溯
+year: 1982
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+
+[Term]
+id: 0000311
+nameEN: shijiazhuang 8
+nameCN: 石家庄8号
+defEN: Immunity to stripe rust,near immunity to leaf rust,and high resistance to powdery mildew
+defCN: 条锈病免疫，叶锈病近免疫，白粉病表现高抗
+is_a: 0000485
+is_a: 0000331
+year: 2005
+region: Northern spring wheat region
+province: Hebei
+NO: ji2001005
+
+[Term]
+id: 0000312
+nameEN: shimai 15
+nameCN: 石麦15
+defEN: High resistance to stripe rust,slow leaf rust,high resistance-moderate resistance to powdery mildew,sheath blight and leaf blight
+defCN: 高抗条锈病，慢叶锈病，高抗-中抗白粉，纹枯和叶枯病
+is_a: 0000331
+is_a: 0000487
+#这个可追溯
+year: 2005
+region: Northern spring wheat region
+province: Hebei
+NO: guo2007017
+
+[Term]
+id: 0000313
+nameEN: yumai 49-198
+nameCN: 豫麦49-198
+defEN: crop improvement
+defCN: 改良
+is_a: 0000438
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: yu2005004
+
+[Term]
+id: 0000314
+nameEN: yannong 21
+nameCN: 烟农21号
+defEN: Unknown
+defCN: 未知
+is_a: 0000435
+is_a: 0000436
+year: 2004
+region: Yellow and HuaiRiver valley winter wheat region       
+province: Shandong
+NO: guo2004016
+
+[Term]
+id: 0000315
+nameEN: xinmai 26
+nameCN: 新麦26
+defEN: Unknown
+defCN: 未知
+is_a: 0000298
+is_a: 0000490
+year: 2010
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo2010007
+
+[Term]
+id: 0000316
+nameEN: yanzhan 4110
+nameCN: 偃展4110
+defEN: Unknown
+defCN: 未知
+is_a: 0000491
+is_a: 0000492
+is_a: 0000493
+is_a: 0000494
+year: 2003
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: yu2003001
+
+[Term]
+id: 0000317
+nameEN: jimai 19
+nameCN: 济麦19号
+defEN: Unknown
+defCN: 未知
+is_a: 0000495
+is_a: 0000496
+year: 2003
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+NO: guo2003014
+
+[Term]
+id: 0000318
+nameEN: zhoumai 16
+nameCN: 周麦16
+defEN: Unknown
+defCN: 未知
+is_a: 0000497
+is_a: 0000498
+year: 2003
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo2003029
+
+[Term]
+id: 0000319
+nameEN: zhongmai 1
+nameCN: 众麦1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000499
+is_a: 0000500
+year: 2004
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: yu2004019
+
+[Term]
+id: 0000320
+nameEN: yannong 999 
+nameCN: 烟农999
+defEN: Unknown
+defCN: 未知
+is_a: 0000501
+is_a: 0000502
+is_a: 0000503
+year: 2016
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+NO: guo2016012 
+
+*****
+https: //www.doc88.com/p-5741607890122.html
+***** 
+
+[Term]
+id: 0000321
+nameEN: shi 4185
+nameCN: 石4185
+defEN: Immunity to stripe rust,and leaf rust,moderate resistance to powdery mildew
+defCN: 对条锈免疫，对叶锈免疫到近免疫，种抗白粉病
+is_a: 0000322
+is_a: 0000323
+year: 2001
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: yu2001004
+
+[Term]
+id: 0000322
+nameEN: F1-0000001
+nameCN: F1-0000001
+defEN: Unknown
+defCN: 未知
+is_a: 0000388
+is_a: 0000386
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000323
+nameEN: jimai 26
+nameCN: 冀麦26
+defEN: Immunity to leaf rust and powdery mildew with high resistance to stripe rust, leaf rust and powdery mildew
+defCN: 高抗条，叶绣及白粉病对叶锈和白粉病表现免疫
+is_a: 0000389
+is_a: 0000212
+year: 1988
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000324
+nameEN: jimai 10
+nameCN: 冀麦10号
+defEN: Immunity to three physiological races of rust(19-1,19-4,21) and powdery mildew
+defCN: 对锈病三个生理小种（19-1，19-4，21）和白粉病免疫
+is_a: 0000085
+is_a: 0000010
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000325
+nameEN: jinhe 9123
+nameCN: 金禾9123
+defEN: High susceptibility to stripe rust,leaf rust,scab and sheath blight,moderate susceptibility to powdery mildew or high resistance
+defCN: 高感条锈病，叶锈病，赤霉病和纹枯病，中感白粉病或高抗
+is_a: 0000321
+is_a: 0000487
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo2008012
+
+[Term]
+id: 0000326
+nameEN: shimai 28
+nameCN: 石麦28 
+defEN: High or moderate resistance to stripe rust,slow or moderate resistance to leaf rust,moderate susceptibility to powdety mildew
+defCN: 高抗——中抗条锈病，慢——中抗叶锈病，中感——高感白粉病
+is_a: 0000405
+is_a: 0000325
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000327
+nameEN: shimai 14
+nameCN: 石麦14号
+defEN: Immunity or high resistance to powdery mildew
+defCN: 对白粉病免疫或高抗
+is_a: 0000325
+is_a: 0000321
+year: 2004
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+NO: ji2004005
+
+[Term]
+id: 0000328
+nameEN: shi5093
+nameCN: 石5093
+defEN: Resistanceto stripe rust,leaf rust and leaf blight,mild susceptibility to powdery mildew
+defCN: 抗条，叶锈病，轻感白粉病，抗叶枯病
+is_a: 0000323
+is_a: 0000329
+year: 1991
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000329
+nameEN: F1-0000002
+nameCN: F1-0000002
+defEN: Unknown
+defCN: 未知
+is_a: 0000323
+is_a: 0000504
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000330
+nameEN: shimai 10
+nameCN: 石麦10号
+defEN: High resistance to stripe,leaf rust and powdery mildew
+defCN: 高抗条，叶锈及白粉病
+is_a: 0000505
+is_a: 0000328
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000331
+nameEN: jimai 38 ! shi 9306
+nameCN: 冀麦38 ! 石9306
+defEN: Resistance to stripe rust,leaf rust and powdery mildew
+defCN: 抗条锈，耐叶锈和白粉病
+is_a: 0000332
+is_a: 0000506
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+NO: guo980003
+
+[Term]
+id: 0000332
+nameEN: F1-0000003
+nameCN: F1-0000003
+defEN: Unknown
+defCN: 未知
+is_a: 0000507
+is_a: 0000010
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000333
+nameEN: shijiazhuang 9
+nameCN: 石家庄9号
+defEN: Stripe rust grade 3,leaf rust grade 1~2,powdery mildew grade 3
+defCN: 条锈3级，叶锈1~2级，白粉3级
+is_a: 0000334
+is_a: 0000328
+year: 2002
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+NO: ji2002003
+
+[Term]
+id: 0000334
+nameEN: F1-0000004
+nameCN: F1-0000004
+defEN: Unknown
+defCN: 未知
+is_a: 0000508
+is_a: 0000331
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000335
+nameEN: shimai 11
+nameCN: 石麦11号
+defEN: High resistance to stripe rust and powdery mildew
+defCN: 高抗条叶锈及白粉病
+is_a: 0000328
+is_a: 0000509
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+
+[Term]
+id: 0000336
+nameEN: shimai 12
+nameCN: 石麦12号
+defEN: High resistance to stripe rust,sheath blight and leaf blight,moderate resistance to stalk rust and powdery mildew
+defCN: 高抗条锈，纹枯和叶枯病，中抗杆绣和白粉病
+is_a: 0000485
+is_a: 0000339
+Year: 2004
+Region: Yellow and HuaiRiver valley winter wheat region 
+Province: Henan
+NO: ji2004004
+
+[Term]
+id: 0000337
+nameEN: F1-0000005
+nameCN: F1-0000005
+defEN: Unknown
+defCN: 未知
+is_a: 0000510
+is_a: 0000010
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000338
+nameEN: F1-0000006
+nameCN: F1-0000006
+defEN: Unknown
+defCN: 未知
+is_a: 0000511
+is_a: 0000512
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000339
+nameEN: F1-0000007
+nameCN: F1-0000007
+defEN: Unknown
+defCN: 未知
+is_a: 0000337
+is_a: 0000338
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000340
+nameEN: shimai 21
+nameCN: 石麦21号
+defEN: Moderately susceptible to stripe rust,moderately resistant to leaf rust and powdery mildew
+defCN: 中感条锈病，中抗叶锈病，白粉病
+is_a: 0000341
+is_a: 0000331
+Year: 2006
+Region: Yellow and HuaiRiver valley winter wheat region 
+Province: Hebei
+
+[Term]
+id: 0000341
+nameEN: F1-0000008
+nameCN: F1-0000008
+defEN: Unknown
+defCN: 未知
+is_a: 0000513
+is_a: 0000514
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000342
+nameEN: shimai 18
+nameCN: 石麦18号
+defEN: High resistance to stripe,leaf rust and powdery mildew
+defCN: 高抗条，叶锈，高抗白粉病
+is_a: 0000331
+is_a: 0000343
+Year: 2008
+Region: Yellow and HuaiRiver valley winter wheat region 
+Province: Hebei
+NO: 2008004
+
+[Term]
+id: 0000343
+nameEN: F2-0000001
+nameCN: F2-0000001
+defEN: Unknown
+defCN: 未知
+is_a: 0000515
+is_a: 0000516
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000344
+nameEN: shimai 19
+nameCN: 石麦19号
+defEN: Moderately resistant to scab,moderately susceptible to sheath blight,moderately or highly susceptible to stripe rust,highly susceptible to leaf rust and powdery mildew
+defCN: 中抗赤霉病，中感纹枯病，中感至高感条锈病，高感叶锈病，白粉病
+is_a: 0000321
+is_a: 0000345
+Year: 2009
+Region: Yellow and HuaiRiver valley winter wheat region       
+Province: Hebei
+NO: guo2009018
+
+[Term]
+id: 0000345
+nameEN: F2-0000002
+nameCN: F2-0000002
+defEN: Unknown
+defCN: 未知
+is_a: 0000514
+is_a: 0000513
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000346
+nameEN: shimai 22
+nameCN: 石麦22
+defEN: High susceptibility to stripe rust,leaf rust,powdery mildew,sheath blight,moderate susceptibility to scab
+defCN: 高感条锈病，叶锈病，白粉病，纹枯病，中感赤霉病
+is_a: 0000347
+is_a: 0000321
+Year: 2013
+Region: Yellow and HuaiRiver valley winter wheat region 
+Province: Hebei
+NO: ji2013002
+
+[Term]
+id: 0000347
+nameEN: F1-0000009
+nameCN: F1-0000009
+defEN: Unknown
+defCN: 未知
+is_a: 0000331
+is_a: 0000513
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000348
+nameEN: shimai 16
+nameCN: 石麦16号
+defEN: Moderately resistant to powdery mildew,moderately susceptible to leaf rust,and highly susceptible to stripe rust
+defCN: 石麦16号，冬性，中晚熟，成熟期比对照京冬8号晚熟1天左右。幼苗半匍匐，分蘖力中等，成穗率较高。株高75厘米左右，株型较紧凑，穗层较整齐。穗纺锤形，短芒，白壳，白粒，籽粒半角质。两年区试平均亩穗数43.4万穗、穗粒数32.4粒、千粒重39.2克。抗寒性鉴定，抗寒性中等。抗倒性较强。接种抗病性鉴定: 中抗白粉病，中感叶锈病，高感条锈病。2007年、2008年分别测定品质（混合样）: 籽粒容重749克/升、780克/升，硬度指数68.0（2008年），蛋白质含量14.62%、14.68%；面粉湿面筋含量32.1%、32.0%，沉降值20.3毫升、20.5毫升，吸水率55.8%、57.6%，稳定时间1.7分钟、1.6分钟，最大抗延阻力100E.U、92 E.U，延伸性13.4厘米、11.8厘米，拉伸面积18平方厘米、15 平方厘米
+is_a: 0000517
+is_a: 0000350
+year: 2005-2007
+province: hebei
+NO: guo2009025
+region: Yellow and HuaiRiver valley winter wheat region 
+
+[Term]
+id: 0000349
+nameEN: F1-0000010
+nameCN: F1-0000010
+defEN: Unknown
+defCN: 未知
+is_a: 0000331
+is_a: 0000518
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000350
+nameEN: F1-0000011
+nameCN: F1-0000011
+defEN: Unknown
+defCN: 未知
+is_a: 0000349
+is_a: 0000519
+year: NA
+region: NA
+province: NA
+*****
+https: //www.doc88.com/p-9791749525632.html
+*****
+
+[Term]
+id: 0000351
+nameEN: zhongmai 861
+nameCN: 中麦861
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000520
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000352
+nameEN: bao5067
+nameCN: 保5067
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000521
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000353
+nameEN: hengza 4
+nameCN: 衡杂4号
+defEN: Unknown
+defCN: 未知
+is_a: 0000522
+is_a: 0000321
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000354
+nameEN: heng 07-4579
+nameCN: 衡07-4579
+defEN: Unknown
+defCN: 未知
+is_a: 0000327
+is_a: 0000296
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000355
+nameEN: shi 08-6028
+nameCN: 石08-6028
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000523
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000356
+nameEN: shi 12-4025
+nameCN: 石12-4025
+defEN: Unknown
+defCN: 未知
+is_a: 0000405
+is_a: 0000325
+Year: 2017
+Region: NA
+Province: Hebei
+
+[Term]
+id: 0000357
+nameEN: shi 12-4117
+nameCN: 石12-4117
+defEN: Unknown
+defCN: 未知
+is_a: 0000342
+is_a: 0000325
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000358
+nameEN: keshi H103-009
+nameCN: 科石H103-009
+defEN: Unknown
+defCN: 未知
+is_a: 0000524
+is_a: 0000327
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000359
+nameEN: keshi B05-6508
+nameCN: 科石B05-6508
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000525
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000360
+nameEN: shi H09-7075
+nameCN: 石H09-7075
+defEN: Unknown
+defCN: 未知
+is_a: 0000311
+is_a: 0000342
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000361
+nameEN: shi 05-6507
+nameCN: 石05-6507
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000525
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000362
+nameEN: jimai 268
+nameCN: 冀麦268
+defEN: Unknown
+defCN: 未知
+is_a: 0000325
+is_a: 0000526
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000363
+nameEN: jimai 326
+nameCN: 冀麦326
+defEN: Unknown
+defCN: 未知
+is_a: 0000364
+is_a: 0000405
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000364
+nameEN: F1-0000012
+nameCN: F1-0000012
+defEN: Unknown
+defCN: 未知
+is_a: 0000377
+is_a: 0000312
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000365
+nameEN: jimai 806
+nameCN: 冀麦806
+defEN: Unknown
+defCN: 未知
+is_a: 0000325
+is_a: 0000980
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000366
+nameEN: jinhe 12-070
+nameCN: 金禾12-070
+defEN: Unknown
+defCN: 未知
+is_a: 0000325
+is_a: 0000976
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000367
+nameEN: yaomai 19-5
+nameCN: 尧麦19-5
+defEN: Unknown
+defCN: 未知
+is_a: 0000327
+is_a: 0000527
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000368
+nameEN: han 105159
+nameCN: 邯105159
+defEN: Unknown
+defCN: 未知
+is_a: 0000528
+is_a: 0000321
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000369
+nameEN: heng 121
+nameCN: 衡121
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000529
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000370
+nameEN: heng 562
+nameCN: 衡562
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000153
+is_a: 0000530
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000371
+nameEN: GR122
+nameCN: GR122
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000531
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000372
+nameEN: henong 831
+nameCN: 河农831
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000532
+year: NA
+region: Northern winter wheat region  
+province: Hebei
+
+[Term]
+id: 0000373
+nameEN: xingmai 9
+nameCN: 邢麦9
+defEN: Unknown
+defCN: 未知
+is_a: 0000443
+is_a: 0000321
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000374
+nameEN: henong 130
+nameCN: 河农130
+defEN: Unknown
+defCN: 未知
+is_a: 0000533
+is_a: 0000321
+year: 2009
+region: Northern winter wheat region 
+province: Hebei
+NO: ji2014003
+
+[Term]
+id: 0000375
+nameEN: henong 825
+nameCN: 河农825
+defEN: Unknown
+defCN: 未知
+is_a: 0000534
+is_a: 0000321
+year: 2005
+region: Northern winter wheat region  
+province: Hebei
+
+[Term]
+id: 0000376
+nameEN: henong 827
+nameCN: 河农827
+defEN: Tissue culture screening
+defCN: 组培筛选
+is_a: 0000532
+is_a: 0000321
+year: 2006
+region: Northern winter wheat region  
+province: Hebei
+NO: ji2008011
+
+[Term]
+id: 0000377
+nameEN: kenong 199
+nameCN: 科农199
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000397
+year: 2006
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+NO: guo2006017
+
+[Term]
+id: 0000378
+nameEN: nongda 399
+nameCN: 农大399
+defEN: Unknown
+defCN: 未知
+is_a: 0000972
+is_a: 0000535
+is_a: 0000536
+is_a: 0000321
+year: 2007
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+NO: guo2012004
+
+[Term]
+id: 0000379
+nameEN: baomai 10
+nameCN: 保麦10号
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000521
+year: 2004
+region: Northern winter wheat region  
+province: Hebei
+NO: ji2008012
+
+[Term]
+id: 0000380
+nameEN: lunxuan 103
+nameCN: 轮选103
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000311
+yrear: 2010
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+NO: ji2015001
+
+[Term]
+id: 0000381
+nameEN: 58（18）<sub>2</sub>
+nameCN: 58（18）<sub>2</sub>
+defEN: Unknown
+defCN: 未知
+is_a: 0000537
+is_a: 0000382
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000382
+nameEN: F1-0000013
+nameCN: F1-0000013
+defEN: Unknown
+defCN: 未知
+is_a: 0000123
+is_a: 0000538
+is_a: 0000001
+is_a: 0000019
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000383
+nameEN: F1-0000014
+nameCN: F1-0000014
+defEN: Unknown
+defCN: 未知
+is_a: 0000381
+is_a: 0000126
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000384
+nameEN: 65（14）<sub>3</sub>
+nameCN: 65（14）<sub>3</sub>
+defEN: Department selection
+defCN: 矮丰3号系选而成
+is_a: 0000383
+is_a: 0000124
+is_a: 0000482
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000385
+nameEN: hanghuihong
+nameCN: 杭辉红
+defEN: Department selection
+defCN: 辉县红系选而成
+is_a: 0000539
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000386
+nameEN: yumai 2
+nameCN: 豫麦2号 ! 宝丰7288
+defEN: Unknown
+defCN: 未知
+is_a: 0000385
+is_a: 0000384
+year: 1980
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000387
+nameEN: F1-0000015
+nameCN: F1-0000015
+defEN: Unknown
+defCN: 未知
+is_a: 0000540
+is_a: 0000095
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000388
+nameEN: zhi 81-8094
+nameCN: 植81-8094
+defEN: Unknown
+defCN: 未知
+is_a: 0000541
+is_a: 0000387
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000389
+nameEN: F1-0000016
+nameCN: F1-0000016
+defEN: Unknown
+defCN: 未知
+is_a: 0000085
+is_a: 0000010
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000390
+nameEN: shijiazhuang 63
+nameCN: 石家庄63
+defEN: Unknown
+defCN: 未知
+is_a: 0000051
+is_a: 0000050
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+*****
+https: //www.doc88.com/p-3867776391402.html
+*****
+[Term]
+id: 0000391
+nameEN: F1-0000017
+nameCN: F1-0000017
+defEN: Unknown
+defCN: 未知
+is_a: 0000459
+is_a: 0000973
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000392
+nameEN: 148
+nameCN: 148 ! T1RS-BL
+defEN: Unknown
+defCN: 未知
+is_a: 0000391
+is_a: 0000459
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000393
+nameEN: F1-0000018
+nameCN: F1-0000018
+defEN: BE-1 is octaploid
+defCN: BE-1为八倍体
+is_a: 0000392
+is_a: 0000542
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000394
+nameEN: 7321
+nameCN: 7321
+defEN: Unknown
+defCN: 未知
+is_a: 0000482
+is_a: 0000543
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000395
+nameEN: 76216
+nameCN: 76216
+defEN: substitution lines
+defCN: 异代换系
+is_a: 0000544
+is_a: 0000394
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000396
+nameEN: SA502
+nameCN: SA502
+defEN: substitution lines
+defCN: 786216 异代换系
+is_a: 0000545
+is_a: 0000395
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000397
+nameEN: kenong 9204
+nameCN: 科农9204
+defEN: Unknown
+defCN: 未知
+is_a: 0000396
+is_a: 0000331
+year: 2003
+region: Hebei
+province: Yellow and HuaiRiver valley winter wheat region   
+NO: guo2003037
+
+[Term]
+id: 0000398
+nameEN: nenong 1093
+nameCN: 科农1093
+defEN: Unknown
+defCN: 未知
+is_a: 0000546
+is_a: 0000397
+year: 2005
+region: Yellow and HuaiRiver valley winter wheat region   
+province: Hebei
+NO: ji2005005
+
+[Term]
+id: 0000399
+nameEN: kenong 1095
+nameCN: 科农1095
+defEN: Unknown
+defCN: 未知
+is_a: 0000397
+is_a: 0000546
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000400
+nameEN: BC<sub>1</sub>
+nameCN: BC<sub>1</sub>
+defEN: Unknown
+defCN: 未知
+is_a: 0000392
+is_a: 0000393
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000401
+nameEN: BC<sub>1</sub>F<sub>1</sub>
+nameCN: BC<sub>1</sub>F<sub>1</sub>
+defEN: BC<sub>1</sub> Seeds are radiated
+defCN: BC<sub>1</sub>种子辐射处理
+is_a: 0000399
+is_a: 0000400
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000402
+nameEN: kenong 2009
+nameCN: 科农2009 ! 未审定-1
+defEN: Unknown
+defCN: 未知
+is_a: 0000401
+is_a: 0000399
+year: 2017
+region: Yellow and HuaiRiver valley winter wheat region  
+province: NA
+NO: guo20170015
+
+[Term]
+id: 0000403
+nameEN: BC<sub>2</sub>F<sub>4</sub>-1
+nameCN: BC<sub>2</sub>F<sub>4</sub>-1
+defEN: Unknown
+defCN: 未知
+is_a: 0000547
+is_a: 0000548
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000404
+nameEN: BC<sub>2</sub>F<sub>2</sub>
+nameCN: BC<sub>2</sub>F<sub>2</sub>
+defEN: Unknown
+defCN: 未知
+is_a: 0000377
+is_a: 0000403
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000405
+nameEN: ji 5265
+nameCN: 冀5265
+defEN: Unknown
+defCN: 未知
+is_a: 0000549
+is_a: 0000397
+year: 2009
+region: ellow and HuaiRiver valley winter wheat region 
+province: Hebei
+NO: guo2009016
+
+[Term]
+id: 0000406
+nameEN: BC<sub>2</sub>F<sub>4</sub>-2
+nameCN: BC<sub>2</sub>F<sub>4</sub>-2
+defEN: Unknown
+defCN: 未知
+is_a: 0000550
+is_a: 0000397
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000407
+nameEN: kenong 1006
+nameCN: 科农1006
+defEN: Unknown
+defCN: 未知
+is_a: 0000415
+is_a: 0000406
+year: 2007
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+NO: ji2013003
+
+[Term]
+id: 0000408
+nameEN: 1092
+nameCN: 1092
+defEN: Unknown
+defCN: 未知
+is_a: 0000971
+is_a: 0000397
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000409
+nameEN: kenong 3016
+nameCN: 科农3016
+defEN: Unknown
+defCN: 未知
+is_a: 0000551
+is_a: 0000408
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000410
+nameEN: 96181
+nameCN: 96181
+defEN: Unknown
+defCN: 未知
+is_a: 0000552
+is_a: 0000397
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000411
+nameEN: 4021
+nameCN: 4021
+defEN: Unknown
+defCN: 未知
+is_a: 0000553
+is_a: 0000410
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000412
+nameEN: kenong 7003
+nameCN: 科农7003
+defEN: Unknown
+defCN: 未知
+is_a: 0000377
+is_a: 0000411
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000413
+nameEN: 184-1
+nameCN: 184-1
+defEN: Unknown
+defCN: 未知
+is_a: 0000397
+is_a: 0000552
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000414
+nameEN: kenong 5079
+nameCN: 科农5079 ! 未审定-2
+defEN: Unknown
+defCN: 未知
+is_a: 0000377
+is_a: 0000413
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000415
+nameEN: kenong 9204R
+nameCN: 科农9204R
+defEN: Unknown
+defCN: 未知
+is_a: 0000392
+is_a: 0000397
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Hebei
+
+[Term]
+id: 0000416
+nameEN: kenong 5003
+nameCN: 科农5003
+defEN: Unknown
+defCN: 未知
+is_a: 0000417
+is_a: 0000415
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Hebei
+
+[Term]
+id: 0000417
+nameEN: OS40
+nameCN: OS40
+defEN: Unknown
+defCN: 未知
+is_a: 0000554
+is_a: 0000555
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000418
+nameEN: kenong 5001
+nameCN: 科农5001
+defEN: Unknown
+defCN: 未知
+is_a: 0000417
+is_a: 0000397
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Hebei
+
+[Term]
+id: 0000419
+nameEN: kenong 7001
+nameCN: 科农7001
+defEN: Unknown
+defCN: 未知
+is_a: 0000556
+is_a: 0000397
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000420
+nameEN: kenong 3106
+nameCN: 科农3106
+defEN: Unknown
+defCN: 未知
+is_a: 0000451
+is_a: 0000397
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Heibei
+
+[Term]
+id: 0000421
+nameEN: kenong 2011
+nameCN: 科农2011 ! 未审定-3
+defEN: Unknown
+defCN: 未知
+is_a: 0000451
+is_a: 0000397
+year: NA
+region: NA
+province: Shandong
+
+[Term]
+id: 0000422
+nameEN: F7-0000001
+nameCN: F7-0000001
+defEN: Unknown
+defCN: 未知
+is_a: 0000552
+is_a: 0000397
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000423
+nameEN: kenong 5023
+nameCN: 科农5023
+defEN: Unknown
+defCN: 未知
+is_a: 0000422
+is_a: 0000557
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000424
+nameEN: kenong 7008
+nameCN: 科农7008
+defEN: Unknown
+defCN: 未知
+is_a: 0000558
+is_a: 0000421
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000425
+nameEN: kenong 8024
+nameCN: 科农8024
+defEN: Unknown
+defCN: 未知
+is_a: 0000559
+is_a: 0000421
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000426
+nameEN: kenong 1002
+nameCN: 科农1002
+defEN: Unknown
+defCN: 未知
+is_a: 0000560
+is_a: 0000421
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000427
+nameEN: kenong 1003
+nameCN: 科农1003
+defEN: Unknown
+defCN: 未知
+is_a: 0000561
+is_a: 0000421
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000428
+nameEN: kenong 1004
+nameCN: 科农1004
+defEN: Unknown
+defCN: 未知
+is_a: 0000562
+is_a: 0000421
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000429
+nameEN: kenong 1006-11-1
+nameCN: 科农1006-11-1
+defEN: Unknown
+defCN: 未知
+is_a: 0000378
+is_a: 0000421
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000430
+nameEN: kenong 1005
+nameCN: 科农1005
+defEN: Unknown
+defCN: 未知
+is_a: 0000563
+is_a: 0000421
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei  
+
+[Term]
+id: 0000431
+nameEN: 98199
+nameCN: 98199
+defEN: Unknown
+defCN: 未知
+is_a: 0000321
+is_a: 0000397
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000432
+nameEN: 2221
+nameCN: 2221
+defEN: Unknown
+defCN: 未知
+is_a: 0000564
+is_a: 0000431
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000433
+nameEN: kenong 7131
+nameCN: 科农7131
+defEN: Unknown
+defCN: 未知
+is_a: 0000565
+is_a: 0000432
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000434
+nameEN: kenong 9204S
+nameCN: 科农9204S
+defEN: Unknown
+defCN: 未知
+is_a: 0000397
+is_a: 0000392
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region   
+province: Hebei
+NO: guo2003037
+
+[Term]
+id: 0000435
+nameEN: yan 1933
+nameCN: 烟1933
+defEN: Unknown
+defCN: 未知
+is_a: 0000640
+is_a: 0000986
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+
+[Term]
+id: 0000436
+nameEN: shan 82-29
+nameCN: 陕82-29
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000437
+nameEN: zhoumai 11
+nameCN: 周麦11
+defEN: Unknown
+defCN: 未知
+is_a: 0000498
+is_a: 0000477
+year: 1995
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000438
+nameEN: wenmai 6 ! yumai 49
+nameCN: 温麦6号 ! 豫麦49
+defEN: Unknown
+defCN: 未知
+is_a: 0000488
+year: 2000
+region: Yellow and HuaiRiver valley winter wheat region
+provinc: Henan
+NO: guo20000006
+
+[Term]
+id: 0000439
+nameEN: zhengzhou 8960
+nameCN: 郑州8960
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000440
+nameEN: han 4032
+nameCN: 邯4032
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000441
+nameEN: zhongyin 1
+nameCN: 中引1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000442
+nameEN: zhoumai 12
+nameCN: 周麦12
+defEN: Unknown
+defCN: 未知
+year: 1996
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000443
+nameEN: zhoumai 13
+nameCN: 周麦13号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000444
+nameEN: bainong 64
+nameCN: 百农64
+defEN: Unknown
+defCN: 未知
+is_a: 0000575
+is_a: 0000579
+is_a: 0000986
+is_a: 0000987
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000445
+nameEN: 9940168
+nameCN: 9940168
+defEN: Mutation in air
+defCN: 航空诱变
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000446
+nameEN: lumai 14 ! Yan 1604
+nameCN: 鲁麦14 ! 烟1604
+defEN: Unknown
+defCN: 未知
+is_a: 0000988
+is_a: 0000989
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+	
+[Term]
+id: 0000447
+nameEN: 884187 ! lu 187
+nameCN: 884187 ! 鲁187
+defEN: Unknown
+defCN: 未知
+is_a: 0000990
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000448
+nameEN: yumai 47
+nameCN: 豫麦47
+defEN: Unknown
+defCN: 未知
+is_a: 0000386
+is_a: 0000991
+year: 1997
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000449
+nameEN: PH82-2-2
+nameCN: PH82-2-2
+defEN: Unknown
+defCN: 远缘杂交
+is_a: 0000715
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000450
+nameEN: 954072
+nameCN: 954072
+defEN: Unknown
+defCN: 未知
+is_a: 0000449
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000451
+nameEN: PZW-9
+nameCN: PZW-9
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000452
+nameEN: liken 4
+nameCN: 荔垦4号
+defEN: Unknown
+defCN: 未知
+year: 2012
+region: NA
+province: Henan
+
+[Term]
+id: 0000453
+nameEN: zhengzhou 761
+nameCN: 郑州761
+defEN: Unknown
+defCN: 未知
+is_a: 0000992
+is_a: 0000978
+is_a: 0000196
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000454
+nameEN: yanshi 4
+nameCN: 偃师4号
+defEN: Unknown
+defCN: 未知
+is_a: 0000098
+is_a: 0000196
+is_a: 0000993
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000455
+nameEN: 4142
+nameCN: 4142
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000456
+nameEN: 6125
+nameCN: 6125
+defEN: Unknown
+defCN: 未知
+is_a: 0000490
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000457
+nameEN: PH85-16
+nameCN: PH85-16
+defEN: Unknown
+defCN: 未知
+is_a: 0000449
+is_a: 0000994
+is_a: 0000995
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000458
+nameEN: ji 91102
+nameCN: 济91102
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000459
+nameEN: xiaoyan 6
+nameCN: 小偃6号
+defEN: Unknown
+defCN: 未知
+is_a: 0000963
+is_a: 0000098
+year: 1981
+region: Yellow and HuaiRiver valley winter wheat region    
+province: Shanxi
+
+[Term]
+id: 0000460
+nameEN: 775-1
+nameCN: 775-1
+defEN: Unknown
+defCN: 未知
+is_a: 0000482
+is_a: 0000483
+is_a: 0000484
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000461
+nameEN: xiaoyan 107
+nameCN: 小偃107
+defEN: Unknown
+defCN: 未知
+is_a: 0000996
+is_a: 0000997
+year: 1979
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000462
+nameEN: 84 guan 749
+nameCN: 84观749
+defEN: Unknown
+defCN: 未知
+is_a: 0000088
+is_a: 0000998
+year: 2004
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000463
+nameEN: heng 87-4263
+nameCN: 衡87-4263
+defEN: Unknown
+defCN: 未知
+is_a: 0000323
+is_a: 0000999
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000464
+nameEN: zhengmai 9405
+nameCN: 郑麦9405
+defEN: Unknown
+defCN: 未知
+is_a: 0000960
+is_a: 0001000
+is_a: 0001001
+is_a: 0001002
+year: 2004
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: yu2004022
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000465
+nameEN: 4B269
+nameCN: 4B269
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000466
+nameEN: C5
+nameCN: C5
+defEN: Unknown
+defCN: 未知
+is_a: 0001003
+is_a: 0001004
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000467
+nameEN: xinxiang 3577
+nameCN: 新乡3577
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000468
+nameEN: xinmai 9
+nameCN: 新麦9号
+defEN: Unknown
+defCN: 未知
+is_a: 0001005
+is_a: 0001006
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000469
+nameEN: linmai 6
+nameCN: 临麦6号
+defEN: Unknown
+defCN: 未知
+is_a: 0001008
+is_a: 0001009
+year: 1987
+region: NA
+province: Yunnan
+
+[Term]
+id: 0000470
+nameEN: J1781
+nameCN: J1781
+defEN: sister of tainong 18
+defCN: 泰农18姊妹系
+is_a: 0001010
+is_a: 0001011
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000471
+nameEN: zhou 13 ! zhou 91265
+nameCN: 周13 ! 周91265
+defEN: Unknown
+defCN: 未知
+is_a: 0000498
+is_a: 0000571
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000472
+nameEN: D9054-6
+nameCN: D9054-6
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000473
+nameEN: ji 935031
+nameCN: 济935031
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000474
+nameEN: bainonggaoguang 3709
+nameCN: 百农高光3709
+defEN: Unknown
+defCN: 未知
+is_a: 0001014
+is_a: 0000318
+is_a: 0001015
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000475
+nameEN: mianyang 84-27
+nameCN: 绵阳84-27
+defEN: Unknown
+defCN: 未知
+is_a: 0000901
+is_a: 0000881
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000476
+nameEN: nei 82C6
+nameCN: 内82C6
+defEN: Unknown
+defCN: 未知
+is_a: 0000386
+is_a: 0001013
+is_a: 0001012
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000477
+nameEN: yumai 17 ! neixiang 182
+nameCN: 豫麦17 ! 内乡182
+defEN: Unknown
+defCN: 未知
+is_a: 0000981
+is_a: 0000884
+year: 2003
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo2003031
+
+[Term]
+id: 0000478
+nameEN: yang 91F138
+nameCN: 扬91F138
+defEN: Unknown
+defCN: 未知
+is_a: 0000844
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000479
+nameEN: yang 90-30
+nameCN: 扬90-30
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000480
+nameEN: BMP27
+nameCN: BMP27
+defEN: resistant to stripe rust,powdery mildew from CAU
+defCN: 抗条锈、抗白粉病.来源于中国农大
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000481
+nameEN: bainonggaoguang 3709F2
+nameCN: 百农高光3709F2
+defEN: Unknown
+defCN: 未知
+is_a: 0000489
+is_a: 0000474
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000482
+nameEN: aifeng 3
+nameCN: 矮丰3号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000483
+nameEN: meng 201
+nameCN: 孟201
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000484
+nameEN: neuzucht
+nameCN: 牛株特
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000485
+nameEN: shi 91-5096
+nameCN: 石91-5096
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000486
+nameEN: aizao 781	
+nameCN: 矮早781
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000487
+nameEN: 92R137
+nameCN: 92R137
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000488
+nameEN: yumai 25 ! wen 2540
+nameCN: 豫麦25 ! 温2540
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000489
+nameEN: bainong 160
+nameCN: 百农160
+defEN: Unknown
+defCN: 未知
+is_a: 0000438
+is_a: 0000847
+is_a: 0000444
+year: 2007
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+No: yu2007004
+
+[Term]
+id: 0000490
+nameEN: jinan 17
+nameCN: 济南17
+defEN: Unknown
+defCN: 未知
+is_a: 0000495
+is_a: 0000496
+year: 1999
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Shandong
+
+[Term]
+id: 0000491
+nameEN: aizao 784-1
+nameCN: 矮早784-1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000492
+nameEN: FR81-3
+nameCN: FR81-3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000493
+nameEN: C39
+nameCN: C39
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000494
+nameEN: 78(6)9-2
+nameCN: 78(6)9-2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000495
+nameEN: lumai 13
+nameCN: 鲁麦13号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000496
+nameEN: linfen 5064
+nameCN: 临汾5064
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000497
+nameEN: zhou 9
+nameCN: 周9
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000498
+nameEN: zhou 8425B
+nameCN: 周8425B
+defEN: Unknown
+defCN: 未知
+is_a: 0000580
+is_a: 0000581
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000499
+nameEN: luomai 4 ! yumai 57
+nameCN: 漯麦4号 ! 豫麦57
+defEN: Unknown
+defCN: 未知
+is_a: 0000486
+is_a: 0001016
+year: 2003
+region: Yellow and HuaiRiver valley winter wheat region   
+province: Henan
+NO: guo2003035
+
+[Term]
+id: 0000500
+nameEN: aigan（97-26）
+nameCN: 矮杆选系（97-26）
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000501
+nameEN: yanhangxuan 2
+nameCN: 烟航选2号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000502
+nameEN: lin 9511F1
+nameCN: 临9511F1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000503
+nameEN: yan BLU14-15
+nameCN: 烟BLU14-15
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000504
+nameEN: 2112
+nameCN: 2112
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000505
+nameEN: jinmai 49
+nameCN: 晋麦49
+defEN: Unknown
+defCN: 未知
+year: 1996
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+[Term]
+id: 0000506
+nameEN: 4212-1
+nameCN: 4212-1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000507
+nameEN: sanyuehuang
+nameCN: 三月黄
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000508
+nameEN: shi 89 qin 007
+nameCN: 石89亲007
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000509
+nameEN: Tusank
+nameCN: Tusank
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000510
+nameEN: 70-114
+nameCN: 70-114
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000511
+nameEN: anyang 10
+nameCN: 安阳10
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000512
+nameEN: aifeng 1
+nameCN: 矮丰1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000513
+nameEN: lin 8014
+nameCN: 临8014
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000514
+nameEN: yanfu 188
+nameCN: 烟辐188
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000515
+nameEN: 92 jian 3
+nameCN: 92鉴3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000516
+nameEN: T447
+nameCN: T447
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000517
+nameEN: yumai 31
+nameCN: 豫麦31
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000518
+nameEN: jimai 11
+nameCN: 冀麦11
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000519
+nameEN: shi 91-5093
+nameCN: 石91-5093
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000520
+nameEN: lunxuan 987
+nameCN: 轮选987
+defEN: Unknown
+defCN: 未知
+year: 2004
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000521
+nameEN: 96Y6
+nameCN: 96Y6
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000522
+nameEN: PY-1-2A
+nameCN: PY-1-2A
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000523
+nameEN: BYD-2B
+nameCN: BYD-2B
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000524
+nameEN: ying 4286
+nameCN: 硬4286
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000525
+nameEN: linyuan 28013
+nameCN: 临远28013
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000526
+nameEN: jimai 518
+nameCN: 冀麦518
+defEN: Unknown
+defCN: 未知
+year: 2013
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+NO: ji2013007
+
+[Term]
+id: 0000527
+nameEN: yaomai 16
+nameCN: 尧麦16
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000528
+nameEN: xing 1251
+nameCN: 邢1251
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000529
+nameEN: siyin 1
+nameCN: 斯引1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000530
+nameEN: beinong 9545
+nameCN: 北农9545
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Hebei
+
+[Term]
+id: 0000531
+nameEN: yanzhan 1
+nameCN: 偃展1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region   
+province: NA
+
+[Term]
+id: 0000532
+nameEN: linyuan 95-3091
+nameCN: 临远95-3091
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000533
+nameEN: le 639
+nameCN: 乐639
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000534
+nameEN: linyuan 96-3019
+nameCN: 临远96-3019
+defEN: Unknown
+defCN: Unknown
+defCN: 未知
+
+[Term]
+id: 0000535
+nameEN: henong 2552
+nameCN: 河农2552
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000536
+nameEN: nongda 9516
+nameCN: 农大9516
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000537
+nameEN: jiyuanxiaofoshou
+nameCN: 济源小佛手
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000538
+nameEN: bima 6
+nameCN: 碧玛6号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Gansu
+
+[Term]
+id: 0000539
+nameEN: huixianhong
+nameCN: 辉县红
+defEN: Unknown
+defCN: 未知
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region 
+province: Hubei
+
+[Term]
+id: 0000540
+nameEN: 036
+nameCN: 036
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000541
+nameEN: shanqian
+nameCN: 山前
+defEN: From the Soviet Union
+defCN: 产自苏联
+year: NA
+region: Soviet Union
+province: NA
+
+[Term]
+id: 0000542
+nameEN: BE-1
+nameCN: BE-1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000543
+nameEN: xiaoyan 693
+nameCN: 小偃693
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Jiangsu
+
+[Term]
+id: 0000544
+nameEN: mianyang 75-18
+nameCN: 绵阳75-18
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000545
+nameEN: xiaoyan 5
+nameCN: 小偃5号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000546
+nameEN: gao 8901
+nameCN: 藁8901
+defEN: Unknown
+defCN: 未知
+year: 1998
+region: NA
+province: Hebei
+
+[Term]
+id: 0000547
+nameEN: Chinses Spring
+nameCN: 中国春
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000548
+nameEN: Ae.biuncialis
+nameCN: 欧山羊草
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000549
+nameEN: ji 5006
+nameCN: 冀5006
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000550
+nameEN: gaomai 5
+nameCN: 藁麦5号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000551
+nameEN: kenong 213
+nameCN: 科农213
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000552
+nameEN: 9331
+nameCN: 9331
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000553
+nameEN: Y119
+nameCN: Y119
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000554
+nameEN: lankao 906
+nameCN: 兰考906
+defEN: Unknown
+defCN: 未知
+year: 2000
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000555
+nameEN: zhongyou 14
+nameCN: 中优14
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000556
+nameEN: xinong 9848
+nameCN: 西农9848
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000557
+nameEN: zhou 98100
+nameCN: 周98100
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000558
+nameEN: 181-4
+nameCN: 181-4
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000559
+nameEN: shannong 16
+nameCN: 山农16 
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Shandong
+
+[Term]
+id: 0000560
+nameEN: jinfeng 5027
+nameCN: 金丰5027
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000561
+nameEN: cao 668
+nameCN: 曹668
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000562
+nameEN: RS804
+nameCN: RS804
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000563
+nameEN: shi 4366
+nameCN: 石4366
+defEN: Unknown
+defCN: 未知
+year: 2010
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+NO: ji2015003
+
+[Term]
+id: 0000564
+nameEN: shi 6254
+nameCN: 石6254
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000565
+nameEN: Jining 18
+nameCN: 济宁18
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+****
+https: //www.sciencedirect.com/science/article/abs/pii/S1674205222000041?via%3Dihub
+****
+
+[Term]
+id: 0000566
+nameEN: Huaimai 20
+nameCN: 华麦20
+defEN: Unknown
+defCN: 未知
+is_a: 0000567
+is_a: 0000446
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000567
+nameEN: Zhengzhou 891
+nameCN: 郑州891
+defEN: Unknown
+defCN: 未知
+year: 1991
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000568
+nameEN: Mianyang 26
+nameCN: 绵阳26
+defEN: Unknown
+defCN: 未知
+is_a: 0000569
+is_a: 0000570
+year: 1984
+region: Southwest Winter Wheat Region
+province: Sichuan
+NO: guo98008
+
+[Term]
+id: 0000569
+nameEN: Mianyang 20
+nameCN: 绵阳20
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000570
+nameEN: Chuanyu 9
+nameCN: 川育9号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000571
+nameEN: Zhoumai 9
+nameCN: 周麦9
+defEN: Unknown
+defCN: 未知
+is_a: 0000386
+is_a: 0000572
+is_a: 0000573
+is_a: 0000454
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000572
+nameEN: Bainong 791
+nameCN: 百农791
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000573
+nameEN: Lumai 1
+nameCN: 鲁麦1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+
+[Term]
+id: 0000574
+nameEN: Yumai 41 
+nameCN: 豫麦41
+defEN: Variant individual plant 
+defCN: 变异单株
+is_a: 0000488
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo980005
+
+[Term]
+id: 0000575
+nameEN: bainong 8717
+nameCN: 百农8717
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000576
+nameEN: Lumai 21
+nameCN: 鲁麦21
+defEN: Unknown
+defCN: 未知
+is_a: 0000577
+is_a: 0000578
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+
+[Term]
+id: 0000577
+nameEN: Yanzhong 144 
+nameCN: 烟中144 
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000578
+nameEN: Baofeng 7228
+nameCN: 宝丰7228
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+
+[Term]
+id: 0000579
+nameEN: yanda 72-629-52
+nameCN: 偃大72-629-52
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000580
+nameEN: Zhou 78A
+nameCN: 周78A
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000581
+nameEN: Annong 7959
+nameCN: 安农7959
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000582
+nameEN: Chuanmai 42
+nameCN: 川麦42
+defEN: Unknown
+defCN: 未知
+is_a: 0000583
+is_a: 0000584
+is_a: 0000585
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000583
+nameEN: SynCD 768
+nameCN: SynCD768
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000584
+nameEN: Chuan 6415
+nameCN: Chuan 6415
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000585
+nameEN: SW3243
+nameCN: SW3243
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000586
+nameEN: Xinong 2611
+nameCN: 西农2611
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000587
+nameEN: 918
+nameCN: 918
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000588
+nameEN: 95xuan1
+nameCN: 95xuan1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000589
+nameEN: F1-0000019
+nameCN: F1-0000019
+defEN: Unknown
+defCN: 未知
+is_a: 0000586
+is_a: 0000587
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000590
+nameEN: Zhoumai 18
+nameCN: 周麦18
+defEN: Unknown
+defCN: 未知
+is_a: 0000571
+is_a: 0000591
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+NO: guo2005006
+
+[Term]
+id: 0000591
+nameEN: Neixiang 185
+nameCN: 内乡185
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Henan
+
+[Term]
+id: 0000592
+nameEN: Jinghong 5
+nameCN: Jinghong 5
+defEN: 抗白粉病
+defCN: resistance to powdery mildew
+is_a: 0000009
+is_a: 0000593
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000593
+nameEN: India 798
+nameCN: 印度798
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000594
+nameEN: Dingxingzhai
+nameCN: 定兴寨
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Hebei
+
+[Term]
+id: 0000595
+nameEN: Odessa 3
+nameCN: Odessa 3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000596
+nameEN: Tanori
+nameCN: Tanori
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000597
+nameEN: Atlas 66
+nameCN: Atlas 66
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000598
+nameEN: CI12203
+nameCN: CI12203
+defEN: Unknown
+defCN: 未知
+is_a: 0000599
+is_a: 0000600
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000599
+nameEN: Merit
+nameCN: Merit
+defEN: Unknown
+defCN: 未知
+
+[Term]
+id: 0000600
+nameEN: Thatcher
+nameCN: Thatcher
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000601
+nameEN: Chaoanxiaomai
+nameCN: 潮安小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000602
+nameEN: Chike
+nameCN: Chike
+defEN: from Dapu, Guangdong 
+defCN: 来源于广东
+year: NA
+region: southern winter wheat region
+province: Guangdong
+
+[Term]
+id: 0000603
+nameEN: Honglidangnianlao
+nameCN: 红粒当年老
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000604
+nameEN: Songruimai 
+nameCN: 松蕊麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000605
+nameEN: Shengen
+nameCN: Shengen
+defEN: from Huian, Fujian 
+defCN: 来源于福建
+year: NA
+region: southern winter wheat region
+province: Fujian
+
+[Term]
+id: 0000606
+nameEN: Shanglinxiaomai
+nameCN: 上林小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000607
+nameEN: Kangxiu 10
+nameCN: 抗锈10
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000608
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000608
+nameEN: Fuzhoubaimai
+nameCN: 福州百麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000609
+nameEN: Taizhong 23
+nameCN: 台中23
+defEN: from taiwan
+defCN: 来源于台湾
+is_a: 0000034
+is_a: 0000610
+year: NA
+region: NA
+province: Taiwan
+
+[Term]
+id: 0000610
+nameEN: Qiyu 27
+nameCN: Qiyu 27
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000611
+nameEN: Jinmai 2148
+nameCN: 晋麦2148
+defEN: Unknown
+defCN: 未知
+is_a: 0000613
+is_a: 0000612
+is_a: 0000009
+is_a: 0000614
+year: 1984
+region: southern winter wheat region
+province: Fujian
+
+[Term]
+id: 0000612
+nameEN: Jinjiangchibai
+nameCN: 晋江chibai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000613
+nameEN: Huadong 5
+nameCN: 华东5
+defEN: Unknown
+defCN: 未知
+year: 1964
+region: NA
+province: NA
+
+[Term]
+id: 0000614
+nameEN: Rito
+nameCN: Rito
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000615
+nameEN: Dixiuzao
+nameCN: Dixiuzao
+defEN: from Fujian
+defCN: 来源于福建
+is_a: 0000616
+is_a: 0000081
+year: NA
+region: southern winter wheat region
+province: Fujian
+
+[Term]
+id: 0000616
+nameEN: Mentana
+nameCN: Mentana 
+defEN: Unknown
+defCN: 未知
+is_a: 0000020
+is_a: 0000022
+is_a: 0000083
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000617
+nameEN: Jingyang 60
+nameCN: 泾阳60
+defEN: Pure selection from landrace
+defCN: 纯种选择
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000618
+nameEN: Shite 14
+nameCN: 石特 14
+defEN: Pure selection from landrace
+defCN: 纯种选择
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000619
+nameEN: Fuzhuang 30
+nameCN: 复壮30
+defEN: Variant individual plant
+defCN: 变种
+year: NA
+region: NA
+province: Shanxi
+
+[Term]
+id: 0000620
+nameEN: Jinghui 30
+nameCN: 荆辉30
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000621
+nameEN: Chunxiaomai
+nameCN: 春小麦
+defEN: from Suide, Shanxi 
+defCN: 来源于陕西
+year: NA
+region: Northern winter wheat region
+province: Shaanxi
+
+[Term]
+id: 0000622
+nameEN: Shijiazhuang 54
+nameCN: 石家庄54
+defEN: Unknown
+defCN: 未知
+is_a: 0000002
+is_a: 0000011
+year: 1955
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000623
+nameEN: Pingyang 27
+nameCN: 平阳27
+defEN: Unknown
+defCN: 未知
+is_a: 0000624
+is_a: 0000625
+year: 1980
+region: NA
+province: Shanxi
+
+[Term]
+id: 0000624
+nameEN: 79391
+nameCN: 79391
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000625
+nameEN: 76262
+nameCN: 76262
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000626
+nameEN: Taishan 1
+nameCN: 泰山1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000101
+is_a: 0000009
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000627
+nameEN: Bainong 3217
+nameCN: 百农3217
+defEN: Unknown
+defCN: 未知
+is_a: 0000170
+is_a: 0000007
+is_a: 0000126
+is_a: 0000628
+is_a: 0000629
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000628
+nameEN: Xinong 64 (4) 43
+nameCN: 西农64(4)43
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000629
+nameEN: Yanda 24
+nameCN: 燕大24
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000630
+nameEN: Huoliaomai
+nameCN: 火燎麦	
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000631
+nameEN: Zhengzhou 6
+nameCN: 郑州6
+defEN: Unknown
+defCN: 未知
+is_a: 0000632
+is_a: 0000633
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000632
+nameEN: F1-0000020
+nameCN: F1-0000020
+defEN: Neixiang 5/Huixianhong F1
+defCN: 未知
+is_a: 0000539
+is_a: 0000170
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000633
+nameEN: Heimai
+nameCN: 黑麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000634
+nameEN: Shaannong 7859
+nameCN: 山农7859
+defEN: Unknown
+defCN: 未知
+is_a: 0000635
+is_a: 0000636
+year: NA
+region: NA
+province: Shandong
+
+[Term]
+id: 0000635
+nameEN: 7576-3 spike 27
+nameCN: 7576-3 spike 27
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000636
+nameEN: 6811(2)-2
+nameCN: 6811(2)-2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000637
+nameEN: Dahongmai
+nameCN: 大红麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000638
+nameEN: Laizhou 953
+nameCN: 莱州953
+defEN: Unknown
+defCN: 未知
+is_a: 0000639
+is_a: 0000640
+is_a: 0000641
+year: 1987
+region: Yellow and HuaiRiver valley winter wheat region
+province: NA
+
+[Term]
+id: 0000639
+nameEN: Zao 5
+nameCN: 早5
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000640
+nameEN: Yexuan 1
+nameCN: 掖选1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000641
+nameEN: 7832110-1
+nameCN: 7832110-1
+defEN: Unknown
+defCN: 未知
+year: 1980
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000642
+nameEN: Zhengzhou 741
+nameCN: 郑州741
+defEN: Unknown
+defCN: 未知
+is_a: 0000098
+is_a: 0000196
+year: NA
+region: NA
+province: Henan
+
+[Term]
+id: 0000643
+nameEN: Huangguaxian
+nameCN: 黄瓜先
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000644
+nameEN: Banjiemang
+nameCN: 半截芒
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000645
+nameEN: Laolaixia
+nameCN: Laolaixia
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000646
+nameEN: Kulouding
+nameCN: 蛄蝼定 
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000647
+nameEN: Xishanbiansui
+nameCN: 西山扁穗
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000648
+nameEN: Honggoudou
+nameCN: 红狗豆
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000649
+nameEN: Hongqiangchang
+nameCN: Hongqiangchang
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000650
+nameEN: Pingyuan 50
+nameCN: 平原50
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000651
+nameEN: Baibiansui
+nameCN: 白扁穗
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000652
+nameEN: Baiqimai
+nameCN: 白齐麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000653
+nameEN: Baituzitou
+nameCN: 白秃子
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Gansu
+
+[Term]
+id: 0000654
+nameEN: Youmangsaogudan
+nameCN: 有芒扫谷旦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000655
+nameEN: Niuzhijia
+nameCN: 牛趾甲
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000656
+nameEN: Cheyenne
+nameCN: Cheyenne
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000657
+nameEN: Fuyanghong
+nameCN: 阜阳红
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000658
+nameEN: Qiangchangmai
+nameCN: 抢场麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000659
+nameEN: Huomai
+nameCN: 火麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000660
+nameEN: Meiqianwu
+nameCN: 霉前五
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+
+[Term]
+id: 0000661
+nameEN: Jianmai
+nameCN: 碱麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000662
+nameEN: Xiaofuoshou
+nameCN: 小佛手
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Henan
+
+[Term]
+id: 0000663
+nameEN: Hongheshangtou
+nameCN: 红和尚头
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Gansu
+
+[Term]
+id: 0000664
+nameEN: Dakoumai
+nameCN: 大口麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000665
+nameEN: Mahuaban
+nameCN: Mahuaban
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000666
+nameEN: Tumangmai
+nameCN: 秃芒麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000667
+nameEN: Baitiaoyu
+nameCN: 白条鱼
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000668
+nameEN: Dayuhua
+nameCN: 大玉花
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000669
+nameEN: Fumai
+nameCN: 福麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Shaanxi
+
+[Term]
+id: 0000670
+nameEN: Laoqimai
+nameCN: 老齐麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000671
+nameEN: Chushanbao
+nameCN: 出山豹
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Henan
+
+[Term]
+id: 0000672
+nameEN: Zijiehong
+nameCN: 紫秸红
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000673
+nameEN: dalibanmang
+nameCN: 大粒半芒
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000674
+nameEN: Liuyuehuang
+nameCN: 六月黄
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000675
+nameEN: Jiahongmai
+nameCN: 假红麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000676
+nameEN: Gejiaxiang
+nameCN: 葛家乡
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000677
+nameEN: Geerhongmai
+nameCN: 葛尔红麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000678
+nameEN: Dachunbaisilengmai (2)
+nameCN: 大春白四棱麦(2)
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000679
+nameEN: Bailanghuimai
+nameCN: 白郎灰麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000680
+nameEN: Bendihuanghuamai
+nameCN: 本地黄花麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000681
+nameEN: Zhahong
+nameCN: 扎红
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000682
+nameEN: Motuoxiaomai
+nameCN: 墨脱小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: South China Winter Wheat Region
+province: Guangdong
+
+[Term]
+id: 0000683
+nameEN: Bianbachunmai-6
+nameCN: 边巴春麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000684
+nameEN: Chejianzi
+nameCN: 车锏子
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000685
+nameEN: Wujiangzhuo
+nameCN: 乌江卓
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000686
+nameEN: Hongjinmai
+nameCN: 红金麦 
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Ningxia
+
+[Term]
+id: 0000687
+nameEN: Muzongzhuoga
+nameCN: 木宗卓嘎
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000688
+nameEN: Kangdingxiaomai
+nameCN: 康定小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000689
+nameEN: Zangdong 4
+nameCN: 藏冬4号
+defEN: Unknown
+defCN: 未知
+is_a: 0000690
+is_a: 0000691
+year: NA
+region: Xinjiangwinter-spring wheat region
+province: Tibet Autonomous Region
+
+[Term]
+id: 0000690
+nameEN: Forlani
+nameCN: 费兰尼
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000691
+nameEN: Heie Hvede
+nameCN: 肥麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Xizang
+
+[Term]
+id: 0000692
+nameEN: Rikaze 54 
+nameCN: 日喀则54号
+defEN: Unknown
+defCN: 未知
+is_a: 0000691
+is_a: 0000693
+year: NA
+region: Qinghai-Tibet spring-winter wheat region
+province: Tibet Autonomous Region
+
+[Term]
+id: 0000693
+nameEN: Rikaze 5
+nameCN: 日喀则5
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Qinghai-Tibet spring-winter wheat region
+province: Tibet Autonomous Region
+
+[Term]
+id: 0000694
+nameEN: Rikaze 8
+nameCN: 日喀则8
+defEN: Unknown
+defCN: 未知
+is_a: 0000695
+is_a: 0000616
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000695
+nameEN: Hongmai
+nameCN: 红麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000696
+nameEN: Xiaoe 186
+nameCN: Xiaoe 186
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000697
+nameEN: Shanmai
+nameCN: 山麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000698
+nameEN: Yizhimai
+nameCN: 一支麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000699
+nameEN: Dabaimai
+nameCN: 大白麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000700
+nameEN: Galaohan
+nameCN: 尕老汉
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000701
+nameEN: Huoliyan
+nameCN: 火里炎
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000702
+nameEN: Neimai 11
+nameCN: 宁麦11号
+defEN: Unknown
+defCN: 未知
+is_a: 0000703
+is_a: 0000704
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region  
+province: su200501
+
+[Term]
+id: 0000703
+nameEN: PotamS70
+nameCN: 波达姆
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000704
+nameEN: Wenge 1
+nameCN: Wenge 1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000705
+nameEN: Hongtuzi
+nameCN: 红秃子
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000706
+nameEN: Baidatou
+nameCN: 白大头
+defEN: Unknown
+defCN: 未知
+
+[Term]
+id: 0000707
+nameEN: Jinhuangmai
+nameCN: 金黄麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000708
+nameEN: Hongmangmai
+nameCN: 红芒麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: northwestern spring wheat  region
+province: Ningxia Hui Autonomous Region
+NO: ning7929
+
+[Term]
+id: 0000709
+nameEN: Baiqitou
+nameCN: 白齐头
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000710
+nameEN: Baimazha
+nameCN: 白蚂蚱
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+
+[Term]
+id: 0000711
+nameEN: Laotutou
+nameCN: 老秃头
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000712
+nameEN: Xiaokouhong
+nameCN: Xiaokouhong
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000713
+nameEN: Gaoyuan 506
+nameCN: 高原 506
+defEN: Unknown
+defCN: 未知
+is_a: 0000170
+is_a: 0000222
+is_a: 0000616
+is_a: 0000696
+is_a: 0000714
+is_a: 0000715
+is_a: 0000716
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000714
+nameEN: Triticum compactum
+nameCN: 密穗小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Xinjiangwinter-spring wheat region
+province: Xinjiang Uygur Autonomous Region
+
+[Term]
+id: 0000715
+nameEN: Thinopyrum elongatum
+nameCN: 长穗偃麦草
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000716
+nameEN: Xiaoe 599
+nameCN: Xiaoe 599
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000717
+nameEN: Qingchun 28
+nameCN: 青春 28
+defEN: Unknown
+defCN: 未知
+is_a: 0000718
+is_a: 0000719
+is_a: 0000009
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000718
+nameEN: 70-84
+nameCN: 70-84
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000719
+nameEN: Opal
+nameCN: Opal
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000720
+nameEN: Ningchun 4 
+nameCN: 宁春4号
+defEN: Unknown
+defCN: 未知
+is_a: 0000721
+is_a: 0000722
+year: NA
+region: northwestern spring wheat  region
+province: Ningxia Hui Autonomous Region
+
+[Term]
+id: 0000721
+nameEN: Sonora 64
+nameCN: Sonora 64
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000722
+nameEN: Hongtu
+nameCN: 秃头
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+
+[Term]
+id: 0000723
+nameEN: Huzhuhong
+nameCN: 互助红
+defEN: Pure selection from introduced accession
+defCN: 纯选择引入种
+year: 1964
+region: NA
+province: NA
+
+[Term]
+id: 0000724
+nameEN: Jinmai 4
+nameCN: 晋麦4
+defEN: Unknown
+defCN: 未知
+is_a: 0000725
+is_a: 0000726
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000725
+nameEN: Huimai 2
+nameCN: Huimai 2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000726
+nameEN: Canada
+nameCN: 加拿大
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000727
+nameEN: Dingxi 24
+nameCN: 定西24
+defEN: Unknown
+defCN: 未知
+is_a: 0000728
+is_a: 0000729
+year: 1969
+region: NA
+province: Gansu
+
+[Term]
+id: 0000728
+nameEN: Bailaomang
+nameCN: 白老芒麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000729
+nameEN: Kenye
+nameCN: Kenye
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000730
+nameEN: Huining 10
+nameCN: Huining 10
+defEN: Unknown
+defCN: 未知
+is_a: 0000008
+is_a: 0000731
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000731
+nameEN: Honglaomangmai
+nameCN: 红老芒麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000732
+nameEN: Shuwan 8
+nameCN: 蜀万 8 
+defEN: Unknown
+defCN: 未知
+is_a: 0000733
+is_a: 0000616
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+
+[Term]
+id: 0000733
+nameEN: Hechang 5
+nameCN: Hechang 5
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000734
+nameEN: Fan 6
+nameCN: 繁6
+defEN: Unknown
+defCN: 未知
+is_a: 0000007
+is_a: 0000016
+is_a: 0000017
+is_a: 0000735
+is_a: 0000736
+is_a: 0000737
+is_a: 0000738
+year: 1964
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000735
+nameEN: Yibo 1828
+nameCN: 伊博1828
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000736
+nameEN: India 824
+nameCN: 印度824
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000737
+nameEN: Zhongnong 483
+nameCN: 中农483
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000738
+nameEN: Villa Glori B
+nameCN: Villa Glori B
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000739
+nameEN: Bimai 26
+nameCN: 毕麦26 
+defEN: Unknown
+defCN: 未知
+is_a: 0000740
+is_a: 0000741
+is_a: 0000742
+year: NA
+region: NA
+province: Guizhou
+
+[Term]
+id: 0000740
+nameEN: Chuannongyaanai 2
+nameCN: 川农雅安ai 2 
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Sichuan
+
+[Term]
+id: 0000741
+nameEN: Cajeme F71
+nameCN: 卡捷姆F71
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northwest spring wheat region
+province: NA
+
+[Term]
+id: 0000742
+nameEN: 7312
+nameCN: 7312
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000743
+nameEN: Lanhuamai
+nameCN: Lanhuamai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000744
+nameEN: Guinong 10
+nameCN: 贵农10
+defEN: Unknown
+defCN: 未知
+0000747
+year: NA
+region: NA
+province: Guizhou
+
+[Term]
+id: 0000745
+nameEN: Maris Templar
+nameCN: Maris Templar
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000746
+nameEN: Zongkangai 2
+nameCN: 综抗麦2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000747
+nameEN: Yunmai 34
+nameCN: 云麦34
+defEN: Unknown
+defCN: 未知
+year: 1981
+region: NA
+province: Yunnan
+
+[Term]
+id: 0000748
+nameEN: Кавказ
+nameCN: Кавказ
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000749
+nameEN: 68-77
+nameCN: 68-77
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000750
+nameEN: Xingyi 4
+nameCN: Xingyi 4
+defEN: Unknown
+defCN: 未知
+is_a: 0000751
+is_a: 0000752
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000751
+nameEN: 801-80284
+nameCN: 801-80284
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000752
+nameEN: 8419
+nameCN: 8419
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000753
+nameEN: Fengmai 11 
+nameCN: 封麦11
+defEN: Unknown
+defCN: 未知
+is_a: 0000009
+is_a: 0000754
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000754
+nameEN: 778
+nameCN: 778
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000755
+nameEN: Tongjiabaxiaomai
+nameCN: 同家坝小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000756
+nameEN: Honghuamai
+nameCN: 红花麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000757
+nameEN: Baimaizi
+nameCN: 白小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000758
+nameEN: Jiangmai
+nameCN: 江麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000759
+nameEN: Baihuamai
+nameCN: 白花麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000760
+nameEN: Daimanghongmai
+nameCN: 带芒红麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000761
+nameEN: Huanxiangguo
+nameCN: Huanxiangguo
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000762
+nameEN: Hanzhongbai
+nameCN: 汉中白
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Shaanxi
+
+[Term]
+id: 0000763
+nameEN: Xiaosanyuehuang
+nameCN: 小三月黄
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000764
+nameEN: Suotiaohongmai
+nameCN: Suotiaohongmai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000765
+nameEN: Hongxumai
+nameCN: Hongxumai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000766
+nameEN: Zipi
+nameCN: Zipi
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000767
+nameEN: Hongmangzi
+nameCN: Hongmangzi
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000768
+nameEN: Yuqiumai
+nameCN: 鱼鳅麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Winter Wheat Region in the Middle and Lower Reaches of the Yangtze River
+province: NA
+
+[Term]
+id: 0000769
+nameEN: Yangmai
+nameCN: Yangmai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000770
+nameEN: Zhuoludongmai
+nameCN: 涿鹿冬麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000771
+nameEN: Zhushimai
+nameCN: 猪屎麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000772
+nameEN: Biantouguangkemai
+nameCN: 扁头光壳麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000773
+nameEN: Changmangshibiantou
+nameCN: Changmangshibiantou
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000774
+nameEN: Zhugoumai
+nameCN: 猪狗麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000775
+nameEN: Dianxihongkeyangmai
+nameCN: Dianxihongkeyangmai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000776
+nameEN: Baidongmai
+nameCN: Baidongmai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000777
+nameEN: Hongchunmai
+nameCN: 红春麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000778
+nameEN: Chunmai
+nameCN: 春麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000779
+nameEN: Hongdongmai
+nameCN: 红冬麦
+defEN: Unknown
+defCN: 未知
+year: 2003
+region: Canada
+province: Jianfsu
+
+[Term]
+id: 0000780
+nameEN: Wumangchunmai
+nameCN: 无芒春麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Qinghai
+
+[Term]
+id: 0000781
+nameEN: Hongjinbaoyin
+nameCN: 红金包银
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000782
+nameEN: xindong2
+nameCN: 新冬2
+defEN: Unknown
+defCN: 未知
+is_a: 0000783
+is_a: 0000784
+year: 1960
+region: Xinjiangwinter-spring wheat region
+province: Xinjiang Uygur Autonomous Region
+
+[Term]
+id: 0000783
+nameEN: Reyimuxia
+nameCN: 热衣木夏
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Xinjiangwinter-spring wheat region
+province: Xinjiang Uygur Autonomous Region
+
+[Term]
+id: 0000784
+nameEN: H.H.
+nameCN: H.H.
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000785
+nameEN: Kashi 1
+nameCN: 喀什1
+defEN: Unknown
+defCN: 未知
+is_a: 0000786
+is_a: 0000787
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000786
+nameEN: Bakefuke
+nameCN: 巴克甫克
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Xinjiangwinter-spring wheat region
+province: Xinjiang Uygur Autonomous Region
+
+[Term]
+id: 0000787
+nameEN: Heine Hvede
+nameCN: 亥恩·亥德
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000788
+nameEN: Kashibaipi
+nameCN: 喀什白皮
+defEN: Mixed selection from landraces in Kashi
+defCN: 多重选择中喀什
+year: 1952
+region: Xinjiangwinter-spring wheat region
+province: Xinjiang Uygur Autonomous Region
+
+[Term]
+id: 0000789
+nameEN: Tuokexun 1
+nameCN: 托克逊1
+defEN: Unknown
+defCN: 未知
+is_a: 0000790
+is_a: 0000791
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000790
+nameEN: Bo 2115
+nameCN: Bo 2115
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000791
+nameEN: Hongxingchunxiaomai
+nameCN: 红星春小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000792
+nameEN: Honglaomai
+nameCN: 红老麦
+defEN: from shannxi
+defCN: 陕西
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000793
+nameEN: Youmangbaifu
+nameCN: 有芒白稃
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000794
+nameEN: Hongpidongmai
+nameCN: Hongpidongmai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000795
+nameEN: Qingshiwumang
+nameCN: Qingshiwumang
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000796
+nameEN: Jinchun 3 ! Xichunai 2
+nameCN: 新春3 ! Xichunai 2
+defEN: Unknown
+defCN: 未知
+is_a: 0000126
+is_a: 0000018
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000797
+nameEN: Baiqiumai
+nameCN: 白秋麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000798
+nameEN: Laomai
+nameCN: 老麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000799
+nameEN: Xiaobaimang
+nameCN: 小白芒
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Ningxia
+
+[Term]
+id: 0000800
+nameEN: Zhongyou 9507
+nameCN: 中优9507
+defEN: Pure selection 
+defCN: 纯选择
+is_a: 0000801
+year: 1995
+region: Northern winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000801
+nameEN: Zhongyou 8
+nameCN: 中优8
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000802
+nameEN: Jinmai 8 ! Jinzhong 849
+nameCN: 晋麦8 ! 晋中 849
+defEN: Unknown
+defCN: 未知
+is_a: 0000064
+is_a: 0000803
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000803
+nameEN: San Pastore
+nameCN: San Pastore
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000804
+nameEN: Yuandong 822
+nameCN: Yuandong 822
+defEN: Neutron treatment of Yuandong 7612N
+defCN: 辐变
+is_a: 0000805
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000805
+nameEN: Yuandong 7612N
+nameCN: Yuandong 7612N
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000806
+nameEN: Lianglaiyoubaipixiaomai
+nameCN: 梁来友白皮小麦
+defEN: Pure selection from Baipixiaomai
+defCN: 纯种选择
+is_a: 0000807
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000807
+nameEN: Baipixiaomai
+nameCN: 白皮小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000808
+nameEN: lvhan328
+nameCN: lvhan328
+defEN: Unknown
+defCN: 未知
+is_a: 0000809
+is_a: 0000810
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000809
+nameEN: Hanxuan 3
+nameCN: 邯选3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000810
+nameEN: Jinnong 3
+nameCN: Jinnong 3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000811
+nameEN: Yanan 11
+nameCN: Yanan 11
+defEN: Unknown
+defCN: 未知
+is_a: 0000061
+is_a: 0000812
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000812
+nameEN: Bulgaria 10
+nameCN: Bulgaria 10
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000813
+nameEN: Veer
+nameCN: Veer
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000814
+nameEN: 1817
+nameCN: 1817
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000815
+nameEN: 30983
+nameCN: 30983
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000816
+nameEN: Dongfanghong 3
+nameCN: 东方红3号
+defEN: Pure selection from Nongda 45
+defCN: 纯种选择
+is_a: 0000202
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000817
+nameEN: Xianmai
+nameCN: Xianmai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000818
+nameEN: Jiangxizao
+nameCN: Jiangxizao
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000819
+nameEN: Honghuazao
+nameCN: 红花早
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000820
+nameEN: Bihongsui
+nameCN: 毕红穗
+defEN: Pure selection from Xiaobaimai
+defCN: 纯种选择
+is_a: 0000821
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000821
+nameEN: Xiaobaimai
+nameCN: 小白麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000822
+nameEN: Dahuangpi
+nameCN: 大黄皮
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000823
+nameEN: Chongyanghongmai 1
+nameCN: 崇阳红麦1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000824
+nameEN: Zaowutian
+nameCN: 早五天
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000825
+nameEN: Liuzhutou
+nameCN: 六柱头
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000826
+nameEN: Chanbuzhi
+nameCN: 蝉不吱
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000827
+nameEN: Zhumaoyuanzitou
+nameCN: Zhumaoyuanzitou
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000828
+nameEN: Shuilizhan
+nameCN: 水里站
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000829
+nameEN: Huangshuibai
+nameCN: 黄水白
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000830
+nameEN: Baipu ! luoqing
+nameCN: Baipu ! luoqing
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000831
+nameEN: Zaoxiaomai
+nameCN: 早小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000832
+nameEN: Lanxizaoxiaomai
+nameCN: 兰溪早小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000833
+nameEN: Wangshuibai
+nameCN: 望水白
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000834
+nameEN: Wuyuanmai
+nameCN: Wuyuanmai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000835
+nameEN: Heshangmai
+nameCN: 和尚麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: northwestern spring wheat  region
+province: Gansu
+
+[Term]
+id: 0000836
+nameEN: Nuomai 
+nameCN: 糯麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000837
+nameEN: Mangxiaomai
+nameCN: 芒小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000838
+nameEN: Sankecun
+nameCN: 三颗寸
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000839
+nameEN: Paozimai
+nameCN: 泡子麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000840
+nameEN: Hongpixiaomai
+nameCN: 红皮小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000841
+nameEN: Liying 5
+nameCN: 骊英5号
+defEN: Unknown
+defCN: 未知
+is_a: 0000015
+is_a: 0000019
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000842
+nameEN: Sumai 3
+nameCN: 苏麦3
+defEN: Unknown
+defCN: 未知
+is_a: 0000007
+is_a: 0000843
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000843
+nameEN: Taiwan wheat
+nameCN: 台湾小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000844
+nameEN: Yangmai 158
+nameCN: 扬麦158 
+defEN: Unknown
+defCN: 未知
+is_a: 0000845
+is_a: 0000846
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000845
+nameEN: Yangmai 4
+nameCN: 扬麦4
+defEN: Unknown
+defCN: 未知
+is_a: 0000007
+is_a: 0000006
+is_a: 0000033
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000846
+nameEN: ST1472/506
+nameCN: ST1472/506
+defEN: Unknown
+defCN: 未知
+is_a: 0000098
+is_a: 0000803
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000847
+nameEN: duokang 893
+nameCN: 多抗893
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000848
+nameEN: Enmai 4
+nameCN: Enmai 4
+defEN: Unknown
+defCN: 未知
+is_a: 0000112
+is_a: 0000849
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000849
+nameEN: Yaanzao
+nameCN: 雅安早
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000850
+nameEN: Emai 6
+nameCN: 鄂麦6号
+defEN: Cobalt 60 radiation of Mentana
+defCN: 辐射诱变
+is_a: 0000616
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region   
+province: Hubei
+
+[Term]
+id: 0000851
+nameEN: Anhui 3
+nameCN: 安徽3号
+defEN: Unknown
+defCN: 未知
+is_a: 0000616
+is_a: 0000033
+year: 1959
+region: NA
+province: Anhui
+
+[Term]
+id: 0000852
+nameEN: Zhemai 1
+nameCN: 浙麦1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000853
+is_a: 0000854
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region   
+province: Zhejiang
+
+[Term]
+id: 0000853
+nameEN: Linpuzao
+nameCN: 临浦早
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000854
+nameEN: Taihexiaomai
+nameCN: 太和小麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Anhui
+
+[Term]
+id: 0000855
+nameEN: Baiyoumai
+nameCN: 白油麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000856
+nameEN: Dabaipi
+nameCN: 大白皮
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000857
+nameEN: Dunhuachunmai
+nameCN: 敦化春麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000858
+nameEN: Huoqiu
+nameCN: 火球
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000859
+nameEN: Daqingmang
+nameCN: 大青芒
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Heilongjiang
+
+[Term]
+id: 0000860
+nameEN: Guangtou
+nameCN: 光头
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Gansu
+
+[Term]
+id: 0000861
+nameEN: Xinkehan 9
+nameCN: 新克旱9号
+defEN: Unknown
+defCN: 未知
+is_a: 0000862
+is_a: 0000863
+year: NA
+region: NA
+province: Heilongjiang Province
+
+[Term]
+id: 0000862
+nameEN: Kefeng 2
+nameCN: 克丰2号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Heilongjiang Province
+NO: guo2010021
+
+[Term]
+id: 0000863
+nameEN: Ke 74F3-249-3
+nameCN: 克74F3-249-3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000864
+nameEN: Kefeng 3
+nameCN: 克丰3号
+defEN: Unknown
+defCN: 未知
+is_a: 0000865
+is_a: 0000866
+is_a: 0000867
+is_a: 0000868
+year: NA
+region: NA
+province: Heilongjiang Province
+
+[Term]
+id: 0000865
+nameEN: Kehan 8
+nameCN: 克旱8号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Heilongjiang 
+NO: guo2003020
+
+[Term]
+id: 0000866
+nameEN: Kehong
+nameCN: 克红
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000867
+nameEN: Kezhen
+nameCN: 克珍
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000868
+nameEN: Nadadoles
+nameCN: 那达多列斯
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000869
+nameEN: Kelao 4
+nameCN: 克涝4
+defEN: Unknown
+defCN: 未知
+is_a: 0000870
+is_a: 0000239
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000870
+nameEN: Ke72F4-227-7
+nameCN: 克72F4-227-7
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000871
+nameEN: Xiaohongpi
+nameCN: 小红皮
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000872
+nameEN: Xinshuguang 1
+nameCN: 新曙光1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000008
+is_a: 0000009
+year: NA
+region: NA
+province: Jilin
+
+[Term]
+id: 0000873
+nameEN: Dongnong 101
+nameCN: 东农101 
+defEN: Unknown
+defCN: 未知
+is_a: 0000874
+is_a: 0000875
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000874
+nameEN: Songhuajiang 1
+nameCN: 松花江1号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Heilongjiang
+
+[Term]
+id: 0000875
+nameEN: Lanshou
+nameCN: Lanshou
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000876
+nameEN: Xinshuguang 6
+nameCN: 新曙光6号
+defEN: Unknown
+defCN: 未知
+is_a: 0000877
+is_a: 0000878
+is_a: 0000879
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000877
+nameEN: Hezuo 2
+nameCN: Hezuo 2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000878
+nameEN: Lanyanmai
+nameCN: Lanyanmai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000879
+nameEN: Kefeng
+nameCN: 克丰
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Neimenggu
+
+[Term]
+id: 0000880
+nameEN: Jichun 1016
+nameCN: 吉春1016
+defEN: Unknown
+defCN: 未知
+is_a: 0000881
+is_a: 0000882
+year: NA
+region: NA
+province: Sichuan
+
+[Term]
+id: 0000881
+nameEN: Alondra "S"
+nameCN: Alondra "S"
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000882
+nameEN: Kehan 6
+nameCN: 克旱6号
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000883
+nameEN: KaBKas
+nameCN: KaBKas
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000884
+nameEN: nanyang 75-6
+nameCN: 南阳75-6
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: Henan
+
+[Term]
+id: 0000885
+nameEN: Mara
+nameCN: 玛拉
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000886
+nameEN: Norin 10
+nameCN: 农林10号
+defEN: Unknown
+defCN: 未知
+is_a: 0000887
+is_a: 0000888
+is_a: 0000889
+year: NA
+region: Japan
+province: NA
+
+[Term]
+id: 0000887
+nameEN: Daruma
+nameCN: 达摩
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000888
+nameEN: Fultz
+nameCN: Fultz
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000889
+nameEN: Turkey Red
+nameCN: Turkey Red
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000890
+nameEN: Cheyenne×Early Blackhull
+nameCN: 钱交麦
+defEN: Unknown
+defCN: 未知
+is_a: 0000656
+is_a: 0000039
+year: 1946
+region: USA
+province: NA
+
+*****
+https: //www.sciencedirect.com/science/article/pii/S1674205220302963?via%3Dihub#mmc3
+*****
+
+[Term]
+id: 0000891
+nameEN: Boai 7023
+nameCN: 博爱7023
+defEN: Selected from Funo
+defCN: 阿夫系选
+is_a: 0000007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Henan
+
+[Term]
+id: 0000892
+nameEN: xuzhou 14
+nameCN: 徐州14
+defEN: Unknown
+defCN: 未知
+is_a: 0000616
+is_a: 0000011
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000893
+nameEN: Jimai 30
+nameCN: 冀麦30
+defEN: Unknown
+defCN: 未知
+is_a: 0000894
+is_a: 0000895
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000894
+nameEN: 78-3147
+nameCN: 78-3147
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000895
+nameEN: shi 4414
+nameCN: 石4414
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000896
+nameEN: yumai 13
+nameCN: 豫麦13
+defEN: Unknown
+defCN: 未知
+is_a: 0000627
+is_a: 0000897
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000897
+nameEN: Beijing 9612-2
+nameCN: 北京9612-2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Beijing
+
+[Term]
+id: 0000898
+nameEN: yumai 7
+nameCN: 豫麦7
+defEN: Unknown
+defCN: 未知
+is_a: 0000899
+is_a: 0000454
+year: 1976
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000899
+nameEN: Predgronaja 2
+nameCN: Predgronaja 2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000900
+nameEN: Xian 8
+nameCN: 西安8号
+defEN: Unknown
+defCN: 未知
+is_a: 0000846
+is_a: 0000085
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shaanxi
+
+[Term]
+id: 0000901
+nameEN: mianyang 11
+nameCN: 绵阳11
+defEN: Unknown
+defCN: 未知
+is_a: 0000902
+is_a: 0000734
+year: 1985
+region: southwestern winter wheat region
+province: Sichuan
+
+[Term]
+id: 0000902
+nameEN: chuannong70-5858
+nameCN: 川农70-5858
+defEN: Unknown
+defCN: 未知
+year: NA
+region: southwestern winter wheat region
+province: Sichuan
+
+[Term]
+id: 0000903
+nameEN: mianyang 15
+nameCN: 绵阳15
+defEN: Variant of Mianyang 11
+defCN: 绵阳11变异
+is_a: 0000901
+year: 1979
+region: southwestern winter wheat region
+province: Sichuan
+
+[Term]
+id: 0000904
+nameEN: mianyang 20
+nameCN: 绵阳20
+defEN: Variant of Mianyang 11
+defCN: 绵阳11变异
+is_a: 0000901
+year: NA
+region: southwestern winter wheat region
+province: Sichuan
+
+[Term]
+id: 0000905
+nameEN: Chuanmai 22
+nameCN: 川麦22
+defEN: Unknown
+defCN: 未知
+is_a: 0000901
+is_a: 0000906
+year: NA
+region: southwestern winter wheat region
+province: Sichuan
+
+[Term]
+id: 0000906
+nameEN: chuanmai 20
+nameCN: 川麦20
+defEN: Unknown
+defCN: 未知
+year: NA
+region: southwestern winter wheat region
+province: Sichuan
+
+[Term]
+id: 0000907
+nameEN: Yangmai 5
+nameCN: 扬麦5
+defEN: Unknown
+defCN: 未知
+is_a: 0000846
+is_a: 0000033
+is_a: 0000616
+is_a: 0000846
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region   
+province: Jiangsu
+
+[Term]
+id: 0000908
+nameEN: Jinan 13
+nameCN: 济南13
+defEN: Unknown
+defCN: 未知
+is_a: 0000539
+is_a: 0000008
+is_a: 0000909
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Shandong
+[Term]
+id: 0000909
+nameEN: Ouroubai
+nameCN: Ouroubai
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000910
+nameEN: Een 1
+nameCN: 鄂恩1号
+defEN: Unknown
+defCN: 未知
+is_a: 0000842
+is_a: 0000911
+year: NA
+region: low and middle Yangtze Rivervalley winter wheat region 
+province: Hubei
+
+[Term]
+id: 0000911
+nameEN: F1-0000021
+nameCN: F1-0000021
+defEN: Unknown
+defCN: 未知
+is_a: 0000010
+is_a: 0000912
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000912
+nameEN: 761
+nameCN: 761
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000913
+nameEN: Jinan 16
+nameCN: 济南16
+defEN: Unknown
+defCN: 未知
+is_a: 0000914
+is_a: 0000916
+is_a: 0000915
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region    
+province: Shandong
+
+[Term]
+id: 0000914
+nameEN: Tai
+nameCN: 太谷核不育小麦
+defEN: Unknown
+defCN: 未知
+year: 1972
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000915
+nameEN: shannongfu 63
+nameCN: 山农辐63
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region    
+province: Shandong
+
+
+[Term]
+id: 0000916
+nameEN: 77-1
+nameCN: 77-1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000917
+nameEN: lumai 15
+nameCN: 鲁麦15
+defEN: Unknown
+defCN: 未知
+is_a: 0000918
+is_a: 0000921
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+NO: guo980010
+
+[Term]
+id: 0000918
+nameEN: F1-0000022
+nameCN: F1-0000022
+defEN: Unknown
+defCN: 未知
+is_a: 0000919
+is_a: 0000920
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000919
+nameEN: TAL Yangmai 1 B1
+nameCN: TAL Yangmai 1 B1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000920
+nameEN: 757318
+nameCN: 757318
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000921
+nameEN: 104-14
+nameCN: 104-14
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000922
+nameEN: Gaoyou 503
+nameCN: 高优503
+defEN: Unknown
+defCN: 未知
+is_a: 0000923
+is_a: 0000924
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Hebei
+
+[Term]
+id: 0000923
+nameEN: 78506
+nameCN: 78506
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000924
+nameEN: 84s504
+nameCN: 84s504
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000925
+nameEN: Aimengniu
+nameCN: 矮孟牛
+defEN: Unknown
+defCN: 未知
+is_a: 0000482
+is_a: 0000926
+is_a: 0000484
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region 
+province: Shandong
+
+[Term]
+id: 0000926
+nameEN: mengxian 201
+nameCN: 孟县201
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000927
+nameEN: Zhongmai 66
+nameCN: 中麦66
+defEN: Unknown
+defCN: 未知
+is_a: 0000925
+is_a: 0000590
+year: NA
+region: NA
+province: Henan
+NO: yu2017001
+
+[Term]
+id: 0000928
+nameEN: Fengdecunmai 5
+nameCN: 丰德存麦5号
+defEN: Unknown
+defCN: 未知
+is_a: 0000318
+is_a: 0000290
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: guo2014003
+
+[Term]
+id: 0000929
+nameEN: Gaocheng 8901
+nameCN: 藁城8901
+defEN: Unknown
+defCN: 未知
+is_a: 0000930
+is_a: 0000931
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000930
+nameEN: linzhangmai
+nameCN: 临漳麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000931
+nameEN: 77546
+nameCN: 77546
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000932
+nameEN: Shiluan 02-1
+nameCN: 师栾02-1
+defEN: Unknown
+defCN: 未知
+is_a: 0000933
+is_a: 0000934
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Hebei
+NO: 2007016
+
+[Term]
+id: 0000933
+nameEN: 9411
+nameCN: 9411
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000934
+nameEN: 9430
+nameCN: 9430
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000935
+nameEN: Jinmai 47
+nameCN: 晋麦47
+defEN: Unknown
+defCN: 未知
+is_a: 0000259
+is_a: 0000936
+is_a: 0000937
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000936
+nameEN: K37-20
+nameCN: K37-20
+defEN: Unknown
+defCN: 未知
+v
+
+[Term]
+id: 0000937
+nameEN: han 522
+nameCN: 旱522
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000938
+nameEN: Bainong 201
+nameCN: 百农201
+defEN: Unknown
+defCN: 未知
+is_a: 0000940
+is_a: 0000939
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: yu2017019
+
+[Term]
+id: 0000939
+nameEN: Huayu 198
+nameCN: 华育198
+defEN: Unknown
+defCN: 未知
+year: 2014
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: yu2014003
+
+[Term]
+id: 0000940
+nameEN: 04 zhong 36
+nameCN: 04 zhong 36
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000941
+nameEN: Xumai 856
+nameCN: 徐麦856
+defEN: Unknown
+defCN: 未知
+is_a: 0000942
+is_a: 0000943
+year: 2006
+region: Yellow and HuaiRiver valley winter wheat region
+province: Suzhou
+NO: guo2006012
+[Term]
+id: 0000942
+nameEN: Zhengzhou 8329
+nameCN: 郑州8329
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000943
+nameEN: Xuzhou 86195-14-4-4-1
+nameCN: 徐州86195-14-4-4-1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000944
+nameEN: Xumai 35
+nameCN: 徐麦35
+defEN: Unknown
+defCN: 未知
+is_a: 0000945
+is_a: 0000318
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+NO: guo20170007
+
+[Term]
+id: 0000945
+nameEN: xinmai 93119
+nameCN: 新麦93119
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+NO: guo20220094
+
+[Term]
+id: 0000946
+nameEN: Laogaidaqingmang
+nameCN: 劳盖达青芒
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000947
+nameEN: Qiangweimai
+nameCN: 蔷薇麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000948
+nameEN: Gatuo
+nameCN: Gatuo
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000949
+nameEN: Baishanmai
+nameCN: 白山麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000950
+nameEN: Youzitou
+nameCN: 油子头
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000951
+nameEN: Hezhoudamai
+nameCN: 贺州大麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000952
+nameEN: Guangtoubaishenmai
+nameCN: 广头百神麦
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000953
+nameEN: Yuejin 5
+nameCN: 跃进5
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000954
+nameEN: Jining 3
+nameCN: 济宁3
+defEN: Unknown
+defCN: 未知
+is_a: 0000128
+is_a: 0000955
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000955
+nameEN: A2
+nameCN: A2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000956
+nameEN: Xinong 65
+nameCN: 西农65
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+
+[Term]
+id: 0000957
+nameEN: Jinmai 10
+nameCN: 晋麦10
+defEN: Unknown
+defCN: 未知
+is_a: 0000622
+is_a: 0000008
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000958
+nameEN: Shaan 213
+nameCN: 陕213
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Northern winter wheat region
+province: Shaanxi
+
+[Term]
+id: 0000959
+nameEN: Autonomia
+nameCN: Autonomia
+defEN: Unknown
+defCN: 未知
+is_a: 0000970
+is_a: 0000616
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000960
+nameEN: Xinong 881
+nameCN: 西农881
+defEN: Unknown
+defCN: 未知
+is_a: 0000459
+is_a: 0000956
+is_a: 0000961
+is_a: 0000962
+year: 1992
+region: NA
+province: NA
+
+[Term]
+id: 0000961
+nameEN: 83(2)3-3
+nameCN: 83(2)3-3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000962
+nameEN: 84(14)43
+nameCN: 84(14)43
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000963
+nameEN: Xiaoyan 96
+nameCN: 小偃96
+defEN: Unknown
+defCN: 未知
+is_a: 0000964
+is_a: 0000965
+year: NA
+region: Northern winter wheat region
+province: Shaanxi
+
+[Term]
+id: 0000964
+nameEN: fengchan1
+nameCN: 丰产1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000965
+nameEN: 65-43
+nameCN: 65-43
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000966
+nameEN: Fontarronco
+nameCN: Fontarronco
+defEN: Unknown
+defCN: 未知
+is_a: 0000967
+is_a: 0000014
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000967
+nameEN: Santa Maria
+nameCN: Santa Maria
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000968
+nameEN: Mengxian 201
+nameCN: 蒙县201
+defEN: Unknown
+defCN: 未知
+is_a: 0000953
+is_a: 0000008
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000969
+nameEN: jining 2
+nameCN: 济宁2
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000970
+nameEN: Frassineto 405
+nameCN: Frassineto 405
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000971
+nameEN: 8901
+nameCN: 8901
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000972
+nameEN: Torino
+nameCN: Torino
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000973
+nameEN: German White
+nameCN: German White
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000974
+nameEN: 935024
+nameCN: 935024
+defEN: Unknown
+defCN: 未知
+is_a: 0000983
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000975
+nameEN: 935106
+nameCN: 935106
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000976
+nameEN: 06DZ119
+nameCN: 06DZ119
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000977
+nameEN: 7376/74(11)
+nameCN: 7376/74(11)
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000978
+nameEN: zhengyin 4
+nameCN: 郑引4
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000979
+nameEN: Neixiang 185
+nameCN: 内乡185
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000980
+nameEN: jimai 585
+nameCN: 冀麦585
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+NO: guo2011010
+
+[Term]
+id: 0000981
+nameEN: yanda 7406
+nameCN: 偃大7406
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000982
+nameEN: nanyang 75-6
+nameCN: 南阳75-6
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000983
+nameEN: linyaun 7069
+nameCN: 临远7069
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shanxi
+
+[Term]
+id: 0000984
+nameEN: yannong 215
+nameCN: 烟农215
+defEN: Unknown
+defCN: 未知
+is_a: 0000320
+is_a: 0000985
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Shandong
+NO: lu20200007
+
+[Term]
+id: 0000985
+nameEN: yan 672
+nameCN: 烟672
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0000986
+nameEN: shi82-5594
+nameCN: 石82-5594
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000987
+nameEN: bainong 84-4046-1
+nameCN: 百农84-4046-1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Jiangsu
+
+[Term]
+id: 0000988
+nameEN: C149
+nameCN: C149
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000989
+nameEN: F4530
+nameCN: F4530
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000990
+nameEN: Lancota
+nameCN: Lancota
+defEN: from america
+defCN: 来自美国
+year: NA
+region: USA
+province: NA
+
+[Term]
+id: 0000991
+nameEN: baiquan 3199F1
+nameCN: 百泉3199F1
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0000992
+nameEN: xibei 65(14)
+nameCN: 西北65(14)
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000993
+nameEN: 6609
+nameCN: 6609
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000994
+nameEN: 7940
+nameCN: 7940
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000995
+nameEN: 德州198
+nameCN: 德州198
+defEN: Unknown
+defCN: 未知
+year: 1976
+region: Yellow and HuaiRiver valley winter wheat region  
+province: Shandong
+
+[Term]
+id: 0000996
+nameEN: mianyang75-20
+nameCN: 绵阳75-20
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Southwest Winter Wheat Region
+province: Sichuan
+
+[Term]
+id: 0000997
+nameEN: xiaoyan392
+nameCN: 小偃392
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0000998
+nameEN: jimai 24
+nameCN: 冀麦24
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0000999
+nameEN: jimai 6
+nameCN: 冀麦6
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Hebei
+
+[Term]
+id: 0001000
+nameEN: xinong 8727
+nameCN: 西农8727
+defEN: Unknown
+defCN: 未知
+year: 1987-1997
+region: Yellow and HuaiRiver valley winter wheat region   
+province: NA
+
+[Term]
+id: 0001001
+nameEN: 86(23)
+nameCN: 86(23)
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0001002
+nameEN: 资R84019
+nameCN: 资R84019
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0001003
+nameEN: VPM/Moission
+nameCN: VPM/Moission
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0001004
+nameEN: xinxiang 3380
+nameCN: 新乡3380
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0001005
+nameEN: baiquan 3047-3
+nameCN: 百泉3047-3
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0001006
+nameEN: neixiang82C6
+nameCN: 内乡82C6
+defEN: Unknown
+defCN: 未知
+is_a: 0000386
+is_a: 0001007
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0001007
+nameEN: baiquan 79-5038/78-209
+nameCN: 百泉79-5038/78-209
+defEN: Unknown
+defCN: 未知
+year: 2003
+region: NA
+province: NA
+
+[Term]
+id: 0001008
+nameEN: 86jian22
+nameCN: 86鉴22
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+
+[Term]
+id: 0001009
+nameEN: 84-346
+nameCN: 84-346
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+
+[Term]
+id: 0001010
+nameEN: laizhou 137
+nameCN: 莱州137
+defEN: Unknown
+defCN: 未知
+year: 1989
+region: Yellow and HuaiRiver valley winter wheat region   
+province: Shandong
+
+[Term]
+id: 0001011
+nameEN: yan 369-7
+nameCN: 烟369-7
+defEN: Unknown
+defCN: 未知
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Shandong
+
+[Term]
+id: 0001012
+nameEN: 78-024
+nameCN: 78-024
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+
+[Term]
+id: 0001013
+nameEN: 79-5038(3)
+nameCN: 79-5038(3)
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+
+[Term]
+id: 0001014
+nameEN: wen8dong
+nameCN: 温8冬
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
+
+[Term]
+id: 0001015
+nameEN: aifeng 66
+nameCN: 矮丰66
+defEN: Unknown
+defCN: 未知
+is_a: 0000446
+is_a: 0000444
+year: NA
+region: Yellow and HuaiRiver valley winter wheat region
+province: Henan
+
+[Term]
+id: 0001016
+nameEN: 80(6)-3-3-10
+nameCN: 80(6)-3-3-10
+defEN: Unknown
+defCN: 未知
+year: NA
+region: NA
+province: NA
